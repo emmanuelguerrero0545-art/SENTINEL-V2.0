@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Versión monocromo negro/blanco -->
+  
+  <!-- Círculo externo negro -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#000000" stroke-width="3"/>
+  
+  <!-- Iris (anillo blanco) -->
+  <circle cx="100" cy="100" r="60" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Pupila (negro) -->
+  <circle cx="100" cy="100" r="40" fill="#000000"/>
+  
+  <!-- Centro blanco -->
+  <circle cx="100" cy="100" r="24" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  
+  <!-- Brillo en pupila -->
+  <circle cx="92" cy="92" r="6" fill="#000000" opacity="0.6"/>
+  
+  <!-- Líneas de escaneo -->
+  <!-- Horizontal -->
+  <line x1="30" y1="100" x2="170" y2="100" stroke="#000000" stroke-width="1" opacity="0.5" stroke-dasharray="5,5"/>
+  
+  <!-- Diagonal 1 -->
+  <line x1="50" y1="80" x2="150" y2="120" stroke="#000000" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,3"/>
+  
+  <!-- Diagonal 2 -->
+  <line x1="50" y1="120" x2="150" y2="80" stroke="#000000" stroke-width="0.8" opacity="0.3" stroke-dasharray="3,3"/>
+</svg>

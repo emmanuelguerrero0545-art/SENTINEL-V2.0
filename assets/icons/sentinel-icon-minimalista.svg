@@ -1,0 +1,38 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-minimal">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Fondo blanco (opcional para fondos oscuros) -->
+  <!-- <rect width="200" height="200" fill="#FFFFFF" rx="40"/> -->
+  
+  <!-- Círculo externo rojo -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#EF4444" stroke-width="4" filter="url(#glow-minimal)"/>
+  
+  <!-- Iris (círculo medio negro) -->
+  <circle cx="100" cy="100" r="60" fill="#0F0F0F" stroke="#FF9900" stroke-width="2.5"/>
+  
+  <!-- Pupila (círculo pequeño naranja) -->
+  <circle cx="100" cy="100" r="40" fill="#EF4444" filter="url(#glow-minimal)"/>
+  
+  <!-- Centro luminoso (naranja) -->
+  <circle cx="100" cy="100" r="22" fill="#FF9900"/>
+  
+  <!-- Brillo blanco en pupila -->
+  <circle cx="90" cy="90" r="8" fill="#FFFFFF" opacity="0.9"/>
+  
+  <!-- Línea de escaneo horizontal -->
+  <line x1="30" y1="100" x2="170" y2="100" stroke="#FF9900" stroke-width="1.5" opacity="0.6" stroke-dasharray="6,6"/>
+  
+  <!-- Línea de escaneo diagonal 1 -->
+  <line x1="50" y1="80" x2="150" y2="120" stroke="#EF4444" stroke-width="1" opacity="0.4" stroke-dasharray="4,4"/>
+  
+  <!-- Línea de escaneo diagonal 2 -->
+  <line x1="50" y1="120" x2="150" y2="80" stroke="#EF4444" stroke-width="1" opacity="0.4" stroke-dasharray="4,4"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-tech">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Hexágono externo -->
+  <polygon points="100,30 160,60 160,130 100,160 40,130 40,60" fill="none" stroke="#EF4444" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow-tech)"/>
+  
+  <!-- Ojo elipse dentro del hexágono -->
+  <ellipse cx="100" cy="95" rx="45" ry="50" fill="none" stroke="#FF9900" stroke-width="2.5"/>
+  
+  <!-- Pupila central -->
+  <circle cx="100" cy="95" r="28" fill="#0F0F0F" stroke="#EF4444" stroke-width="1.5"/>
+  
+  <!-- Centro luminoso -->
+  <circle cx="100" cy="95" r="14" fill="#FF9900" opacity="0.85"/>
+  
+  <!-- Brillo en pupila -->
+  <circle cx="93" cy="88" r="5" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- Líneas técnicas radiales desde hexágono -->
+  <!-- Arriba -->
+  <line x1="100" y1="25" x2="100" y2="10" stroke="#EF4444" stroke-width="1.5" opacity="0.7"/>
+  <!-- Arriba-derecha -->
+  <line x1="160" y1="50" x2="175" y2="35" stroke="#EF4444" stroke-width="1.5" opacity="0.7"/>
+  <!-- Abajo-derecha -->
+  <line x1="160" y1="140" x2="175" y2="155" stroke="#FF9900" stroke-width="1.5" opacity="0.7"/>
+  <!-- Abajo -->
+  <line x1="100" y1="165" x2="100" y2="180" stroke="#FF9900" stroke-width="1.5" opacity="0.7"/>
+  <!-- Abajo-izquierda -->
+  <line x1="40" y1="140" x2="25" y2="155" stroke="#EF4444" stroke-width="1.5" opacity="0.7"/>
+  <!-- Arriba-izquierda -->
+  <line x1="40" y1="50" x2="25" y2="35" stroke="#EF4444" stroke-width="1.5" opacity="0.7"/>
+</svg>
