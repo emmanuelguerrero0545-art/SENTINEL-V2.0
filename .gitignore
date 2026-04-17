@@ -1,0 +1,58 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec.bak
+
+# ─── Entornos virtuales ───────────────────────────────────────────────────────
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# ─── Datos sensibles / generados en ejecución ────────────────────────────────
+data/bioconnect_historial.json
+*.log
+bioconnect.log
+
+# ─── Modelos ML entrenados (grandes, usar Git LFS o excluir) ─────────────────
+# Descomenta si no usas Git LFS:
+# data/bioconnect_classifier.joblib
+# data/synthetic_dataset.npz
+
+# ─── Compilados / ejecutables ─────────────────────────────────────────────────
+dist/
+*.exe
+*.app
+build/sentinel_build/
+
+# ─── IDEs ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── macOS ────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ─── Windows ──────────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ─── pytest ───────────────────────────────────────────────────────────────────
+.pytest_cache/
+pytest-cache-files-*/
+.coverage
+htmlcov/
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
