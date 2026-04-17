@@ -1,0 +1,4506 @@
+{
+  "parametros": [
+    {
+      "T1": 6.71,
+      "T2": 19.43,
+      "pendiente": 14.654,
+      "indice_NIR": 168.8,
+      "Fmax": 140.11,
+      "T_half": 6.91,
+      "slope_ratio": 0.931
+    },
+    {
+      "T1": 6.21,
+      "T2": 15.03,
+      "pendiente": 21.949,
+      "indice_NIR": 117.55,
+      "Fmax": 147.78,
+      "T_half": 4.81,
+      "slope_ratio": 0.927
+    },
+    {
+      "T1": 6.61,
+      "T2": 23.54,
+      "pendiente": 7.358,
+      "indice_NIR": 217.33,
+      "Fmax": 88.88,
+      "T_half": 8.91,
+      "slope_ratio": 0.916
+    },
+    {
+      "T1": 4.81,
+      "T2": 16.73,
+      "pendiente": 15.678,
+      "indice_NIR": 158.91,
+      "Fmax": 144.82,
+      "T_half": 6.51,
+      "slope_ratio": 0.944
+    },
+    {
+      "T1": 5.91,
+      "T2": 23.34,
+      "pendiente": 8.994,
+      "indice_NIR": 221.54,
+      "Fmax": 111.47,
+      "T_half": 9.12,
+      "slope_ratio": 0.924
+    },
+    {
+      "T1": 3.51,
+      "T2": 17.63,
+      "pendiente": 7.878,
+      "indice_NIR": 185.4,
+      "Fmax": 84.54,
+      "T_half": 7.51,
+      "slope_ratio": 0.899
+    },
+    {
+      "T1": 7.01,
+      "T2": 22.04,
+      "pendiente": 12.054,
+      "indice_NIR": 196.33,
+      "Fmax": 133.04,
+      "T_half": 8.11,
+      "slope_ratio": 0.998
+    },
+    {
+      "T1": 4.11,
+      "T2": 23.34,
+      "pendiente": 10.242,
+      "indice_NIR": 241.55,
+      "Fmax": 143.33,
+      "T_half": 10.02,
+      "slope_ratio": 0.933
+    },
+    {
+      "T1": 6.71,
+      "T2": 16.53,
+      "pendiente": 15.069,
+      "indice_NIR": 132.93,
+      "Fmax": 112.39,
+      "T_half": 5.61,
+      "slope_ratio": 1.043
+    },
+    {
+      "T1": 2.3,
+      "T2": 11.72,
+      "pendiente": 17.436,
+      "indice_NIR": 126.21,
+      "Fmax": 127.62,
+      "T_half": 5.21,
+      "slope_ratio": 0.986
+    },
+    {
+      "T1": 6.41,
+      "T2": 25.64,
+      "pendiente": 7.685,
+      "indice_NIR": 239.99,
+      "Fmax": 108.2,
+      "T_half": 9.92,
+      "slope_ratio": 0.92
+    },
+    {
+      "T1": 4.31,
+      "T2": 17.33,
+      "pendiente": 9.298,
+      "indice_NIR": 173.63,
+      "Fmax": 93.2,
+      "T_half": 7.21,
+      "slope_ratio": 0.968
+    },
+    {
+      "T1": 2.8,
+      "T2": 16.03,
+      "pendiente": 10.209,
+      "indice_NIR": 174.46,
+      "Fmax": 95.69,
+      "T_half": 7.21,
+      "slope_ratio": 1.004
+    },
+    {
+      "T1": 6.11,
+      "T2": 18.83,
+      "pendiente": 14.44,
+      "indice_NIR": 168.67,
+      "Fmax": 138.27,
+      "T_half": 6.91,
+      "slope_ratio": 0.932
+    },
+    {
+      "T1": 6.21,
+      "T2": 17.53,
+      "pendiente": 16.6,
+      "indice_NIR": 150.57,
+      "Fmax": 138.02,
+      "T_half": 6.21,
+      "slope_ratio": 0.951
+    },
+    {
+      "T1": 6.91,
+      "T2": 19.13,
+      "pendiente": 11.183,
+      "indice_NIR": 161.49,
+      "Fmax": 100.03,
+      "T_half": 6.51,
+      "slope_ratio": 0.985
+    },
+    {
+      "T1": 6.11,
+      "T2": 15.33,
+      "pendiente": 13.343,
+      "indice_NIR": 124.43,
+      "Fmax": 93.78,
+      "T_half": 5.21,
+      "slope_ratio": 0.969
+    },
+    {
+      "T1": 2.1,
+      "T2": 18.93,
+      "pendiente": 10.684,
+      "indice_NIR": 217.47,
+      "Fmax": 126.66,
+      "T_half": 9.12,
+      "slope_ratio": 0.902
+    },
+    {
+      "T1": 6.31,
+      "T2": 23.14,
+      "pendiente": 9.129,
+      "indice_NIR": 216.54,
+      "Fmax": 112.18,
+      "T_half": 8.91,
+      "slope_ratio": 0.954
+    },
+    {
+      "T1": 5.41,
+      "T2": 14.72,
+      "pendiente": 12.26,
+      "indice_NIR": 124.3,
+      "Fmax": 87.77,
+      "T_half": 5.11,
+      "slope_ratio": 0.95
+    },
+    {
+      "T1": 6.01,
+      "T2": 19.23,
+      "pendiente": 12.244,
+      "indice_NIR": 173.39,
+      "Fmax": 119.69,
+      "T_half": 7.11,
+      "slope_ratio": 0.974
+    },
+    {
+      "T1": 6.61,
+      "T2": 21.74,
+      "pendiente": 10.784,
+      "indice_NIR": 196.38,
+      "Fmax": 118.95,
+      "T_half": 8.11,
+      "slope_ratio": 0.936
+    },
+    {
+      "T1": 5.41,
+      "T2": 16.63,
+      "pendiente": 9.782,
+      "indice_NIR": 149.33,
+      "Fmax": 82.03,
+      "T_half": 6.11,
+      "slope_ratio": 0.947
+    },
+    {
+      "T1": 4.71,
+      "T2": 14.82,
+      "pendiente": 13.891,
+      "indice_NIR": 135.49,
+      "Fmax": 108.7,
+      "T_half": 5.51,
+      "slope_ratio": 0.929
+    },
+    {
+      "T1": 7.11,
+      "T2": 17.53,
+      "pendiente": 10.478,
+      "indice_NIR": 138.5,
+      "Fmax": 84.03,
+      "T_half": 5.71,
+      "slope_ratio": 0.947
+    },
+    {
+      "T1": 3.81,
+      "T2": 14.82,
+      "pendiente": 14.907,
+      "indice_NIR": 147.57,
+      "Fmax": 126.12,
+      "T_half": 6.01,
+      "slope_ratio": 0.918
+    },
+    {
+      "T1": 5.41,
+      "T2": 22.24,
+      "pendiente": 10.145,
+      "indice_NIR": 217.04,
+      "Fmax": 126.61,
+      "T_half": 9.02,
+      "slope_ratio": 0.961
+    },
+    {
+      "T1": 4.41,
+      "T2": 21.74,
+      "pendiente": 7.267,
+      "indice_NIR": 221.17,
+      "Fmax": 91.68,
+      "T_half": 9.12,
+      "slope_ratio": 0.943
+    },
+    {
+      "T1": 2.1,
+      "T2": 10.82,
+      "pendiente": 19.19,
+      "indice_NIR": 116.56,
+      "Fmax": 130.18,
+      "T_half": 4.91,
+      "slope_ratio": 0.953
+    },
+    {
+      "T1": 4.81,
+      "T2": 14.32,
+      "pendiente": 15.641,
+      "indice_NIR": 127.64,
+      "Fmax": 114.79,
+      "T_half": 5.31,
+      "slope_ratio": 0.934
+    },
+    {
+      "T1": 2.9,
+      "T2": 18.73,
+      "pendiente": 9.774,
+      "indice_NIR": 205.46,
+      "Fmax": 111.21,
+      "T_half": 8.51,
+      "slope_ratio": 1.001
+    },
+    {
+      "T1": 4.21,
+      "T2": 15.53,
+      "pendiente": 15.079,
+      "indice_NIR": 148.78,
+      "Fmax": 124.02,
+      "T_half": 6.11,
+      "slope_ratio": 0.927
+    },
+    {
+      "T1": 4.21,
+      "T2": 12.92,
+      "pendiente": 13.034,
+      "indice_NIR": 116.39,
+      "Fmax": 88.14,
+      "T_half": 4.71,
+      "slope_ratio": 0.951
+    },
+    {
+      "T1": 7.71,
+      "T2": 26.34,
+      "pendiente": 9.961,
+      "indice_NIR": 232.25,
+      "Fmax": 130.18,
+      "T_half": 9.62,
+      "slope_ratio": 0.934
+    },
+    {
+      "T1": 3.61,
+      "T2": 22.84,
+      "pendiente": 9.809,
+      "indice_NIR": 240.7,
+      "Fmax": 136.66,
+      "T_half": 9.92,
+      "slope_ratio": 0.971
+    },
+    {
+      "T1": 6.31,
+      "T2": 19.23,
+      "pendiente": 10.461,
+      "indice_NIR": 170.42,
+      "Fmax": 99.04,
+      "T_half": 7.01,
+      "slope_ratio": 0.978
+    },
+    {
+      "T1": 2.6,
+      "T2": 21.04,
+      "pendiente": 8.572,
+      "indice_NIR": 232.6,
+      "Fmax": 114.78,
+      "T_half": 9.52,
+      "slope_ratio": 0.869
+    },
+    {
+      "T1": 3.21,
+      "T2": 14.52,
+      "pendiente": 13.929,
+      "indice_NIR": 149.33,
+      "Fmax": 120.21,
+      "T_half": 6.11,
+      "slope_ratio": 0.925
+    },
+    {
+      "T1": 3.01,
+      "T2": 20.93,
+      "pendiente": 10.49,
+      "indice_NIR": 227.05,
+      "Fmax": 133.69,
+      "T_half": 9.32,
+      "slope_ratio": 0.96
+    },
+    {
+      "T1": 6.31,
+      "T2": 19.23,
+      "pendiente": 12.899,
+      "indice_NIR": 167.76,
+      "Fmax": 123.98,
+      "T_half": 6.71,
+      "slope_ratio": 0.904
+    },
+    {
+      "T1": 5.51,
+      "T2": 20.93,
+      "pendiente": 7.593,
+      "indice_NIR": 199.07,
+      "Fmax": 85.92,
+      "T_half": 8.11,
+      "slope_ratio": 0.953
+    },
+    {
+      "T1": 4.51,
+      "T2": 12.62,
+      "pendiente": 17.997,
+      "indice_NIR": 109.45,
+      "Fmax": 114.35,
+      "T_half": 4.51,
+      "slope_ratio": 0.974
+    },
+    {
+      "T1": 4.01,
+      "T2": 13.32,
+      "pendiente": 12.11,
+      "indice_NIR": 125.15,
+      "Fmax": 86.99,
+      "T_half": 5.21,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 5.61,
+      "T2": 15.23,
+      "pendiente": 20.0,
+      "indice_NIR": 129.04,
+      "Fmax": 144.65,
+      "T_half": 5.21,
+      "slope_ratio": 0.971
+    },
+    {
+      "T1": 5.51,
+      "T2": 17.23,
+      "pendiente": 13.879,
+      "indice_NIR": 155.18,
+      "Fmax": 121.45,
+      "T_half": 6.31,
+      "slope_ratio": 0.907
+    },
+    {
+      "T1": 2.3,
+      "T2": 21.14,
+      "pendiente": 8.492,
+      "indice_NIR": 239.77,
+      "Fmax": 117.96,
+      "T_half": 9.92,
+      "slope_ratio": 0.903
+    },
+    {
+      "T1": 6.71,
+      "T2": 15.33,
+      "pendiente": 17.204,
+      "indice_NIR": 115.7,
+      "Fmax": 113.75,
+      "T_half": 4.81,
+      "slope_ratio": 0.945
+    },
+    {
+      "T1": 5.01,
+      "T2": 23.74,
+      "pendiente": 9.302,
+      "indice_NIR": 236.43,
+      "Fmax": 123.1,
+      "T_half": 9.82,
+      "slope_ratio": 0.954
+    },
+    {
+      "T1": 4.91,
+      "T2": 15.73,
+      "pendiente": 12.097,
+      "indice_NIR": 143.31,
+      "Fmax": 103.24,
+      "T_half": 5.81,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 5.21,
+      "T2": 18.03,
+      "pendiente": 8.925,
+      "indice_NIR": 169.08,
+      "Fmax": 81.53,
+      "T_half": 6.91,
+      "slope_ratio": 0.98
+    },
+    {
+      "T1": 7.01,
+      "T2": 25.24,
+      "pendiente": 7.552,
+      "indice_NIR": 230.69,
+      "Fmax": 93.57,
+      "T_half": 9.62,
+      "slope_ratio": 1.056
+    },
+    {
+      "T1": 5.41,
+      "T2": 14.22,
+      "pendiente": 18.313,
+      "indice_NIR": 119.32,
+      "Fmax": 127.11,
+      "T_half": 5.01,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 3.71,
+      "T2": 19.13,
+      "pendiente": 11.395,
+      "indice_NIR": 200.81,
+      "Fmax": 130.77,
+      "T_half": 8.21,
+      "slope_ratio": 0.958
+    },
+    {
+      "T1": 6.61,
+      "T2": 15.53,
+      "pendiente": 21.249,
+      "indice_NIR": 119.68,
+      "Fmax": 143.71,
+      "T_half": 4.91,
+      "slope_ratio": 0.975
+    },
+    {
+      "T1": 3.41,
+      "T2": 11.52,
+      "pendiente": 18.775,
+      "indice_NIR": 108.74,
+      "Fmax": 118.36,
+      "T_half": 4.51,
+      "slope_ratio": 0.95
+    },
+    {
+      "T1": 4.31,
+      "T2": 21.74,
+      "pendiente": 11.026,
+      "indice_NIR": 222.85,
+      "Fmax": 136.94,
+      "T_half": 9.12,
+      "slope_ratio": 1.042
+    },
+    {
+      "T1": 3.91,
+      "T2": 22.84,
+      "pendiente": 8.198,
+      "indice_NIR": 239.49,
+      "Fmax": 105.59,
+      "T_half": 10.02,
+      "slope_ratio": 1.054
+    },
+    {
+      "T1": 5.11,
+      "T2": 15.73,
+      "pendiente": 18.263,
+      "indice_NIR": 142.05,
+      "Fmax": 145.2,
+      "T_half": 5.91,
+      "slope_ratio": 1.028
+    },
+    {
+      "T1": 3.01,
+      "T2": 11.22,
+      "pendiente": 16.913,
+      "indice_NIR": 109.86,
+      "Fmax": 110.23,
+      "T_half": 4.51,
+      "slope_ratio": 0.919
+    },
+    {
+      "T1": 8.11,
+      "T2": 26.34,
+      "pendiente": 10.096,
+      "indice_NIR": 229.7,
+      "Fmax": 133.26,
+      "T_half": 9.42,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 7.51,
+      "T2": 25.64,
+      "pendiente": 8.845,
+      "indice_NIR": 229.16,
+      "Fmax": 118.75,
+      "T_half": 9.52,
+      "slope_ratio": 0.857
+    },
+    {
+      "T1": 4.01,
+      "T2": 20.83,
+      "pendiente": 10.151,
+      "indice_NIR": 215.61,
+      "Fmax": 126.44,
+      "T_half": 8.61,
+      "slope_ratio": 0.882
+    },
+    {
+      "T1": 4.31,
+      "T2": 13.02,
+      "pendiente": 19.414,
+      "indice_NIR": 117.45,
+      "Fmax": 132.02,
+      "T_half": 4.81,
+      "slope_ratio": 0.928
+    },
+    {
+      "T1": 3.61,
+      "T2": 22.24,
+      "pendiente": 7.496,
+      "indice_NIR": 236.9,
+      "Fmax": 102.02,
+      "T_half": 9.92,
+      "slope_ratio": 0.974
+    },
+    {
+      "T1": 2.7,
+      "T2": 20.33,
+      "pendiente": 7.131,
+      "indice_NIR": 223.94,
+      "Fmax": 91.37,
+      "T_half": 9.12,
+      "slope_ratio": 0.904
+    },
+    {
+      "T1": 3.11,
+      "T2": 17.83,
+      "pendiente": 13.157,
+      "indice_NIR": 191.83,
+      "Fmax": 141.37,
+      "T_half": 7.91,
+      "slope_ratio": 0.973
+    },
+    {
+      "T1": 3.21,
+      "T2": 14.42,
+      "pendiente": 15.873,
+      "indice_NIR": 149.41,
+      "Fmax": 134.7,
+      "T_half": 6.21,
+      "slope_ratio": 0.962
+    },
+    {
+      "T1": 7.91,
+      "T2": 21.44,
+      "pendiente": 9.035,
+      "indice_NIR": 177.86,
+      "Fmax": 89.93,
+      "T_half": 7.31,
+      "slope_ratio": 0.969
+    },
+    {
+      "T1": 2.1,
+      "T2": 12.42,
+      "pendiente": 11.568,
+      "indice_NIR": 137.65,
+      "Fmax": 89.01,
+      "T_half": 5.71,
+      "slope_ratio": 0.941
+    },
+    {
+      "T1": 6.11,
+      "T2": 15.13,
+      "pendiente": 16.268,
+      "indice_NIR": 121.64,
+      "Fmax": 115.33,
+      "T_half": 5.01,
+      "slope_ratio": 0.96
+    },
+    {
+      "T1": 6.31,
+      "T2": 20.63,
+      "pendiente": 8.787,
+      "indice_NIR": 189.34,
+      "Fmax": 94.0,
+      "T_half": 7.81,
+      "slope_ratio": 0.966
+    },
+    {
+      "T1": 6.91,
+      "T2": 22.94,
+      "pendiente": 11.167,
+      "indice_NIR": 207.35,
+      "Fmax": 131.91,
+      "T_half": 8.51,
+      "slope_ratio": 0.956
+    },
+    {
+      "T1": 2.8,
+      "T2": 11.82,
+      "pendiente": 20.081,
+      "indice_NIR": 121.71,
+      "Fmax": 144.76,
+      "T_half": 5.11,
+      "slope_ratio": 0.954
+    },
+    {
+      "T1": 4.41,
+      "T2": 15.63,
+      "pendiente": 13.754,
+      "indice_NIR": 148.47,
+      "Fmax": 114.09,
+      "T_half": 6.11,
+      "slope_ratio": 0.98
+    },
+    {
+      "T1": 6.11,
+      "T2": 25.04,
+      "pendiente": 7.561,
+      "indice_NIR": 238.11,
+      "Fmax": 105.61,
+      "T_half": 9.92,
+      "slope_ratio": 0.926
+    },
+    {
+      "T1": 7.61,
+      "T2": 15.43,
+      "pendiente": 19.222,
+      "indice_NIR": 107.01,
+      "Fmax": 118.56,
+      "T_half": 4.51,
+      "slope_ratio": 0.962
+    },
+    {
+      "T1": 5.91,
+      "T2": 14.72,
+      "pendiente": 13.043,
+      "indice_NIR": 118.86,
+      "Fmax": 89.94,
+      "T_half": 4.91,
+      "slope_ratio": 0.965
+    },
+    {
+      "T1": 4.51,
+      "T2": 23.64,
+      "pendiente": 9.175,
+      "indice_NIR": 240.43,
+      "Fmax": 125.03,
+      "T_half": 10.02,
+      "slope_ratio": 1.035
+    },
+    {
+      "T1": 7.71,
+      "T2": 24.84,
+      "pendiente": 8.95,
+      "indice_NIR": 218.78,
+      "Fmax": 112.74,
+      "T_half": 9.02,
+      "slope_ratio": 0.907
+    },
+    {
+      "T1": 6.71,
+      "T2": 14.52,
+      "pendiente": 14.088,
+      "indice_NIR": 105.83,
+      "Fmax": 87.38,
+      "T_half": 4.41,
+      "slope_ratio": 0.948
+    },
+    {
+      "T1": 7.01,
+      "T2": 24.04,
+      "pendiente": 7.701,
+      "indice_NIR": 218.34,
+      "Fmax": 96.28,
+      "T_half": 9.02,
+      "slope_ratio": 0.946
+    },
+    {
+      "T1": 5.31,
+      "T2": 20.13,
+      "pendiente": 13.006,
+      "indice_NIR": 193.27,
+      "Fmax": 140.54,
+      "T_half": 7.71,
+      "slope_ratio": 0.874
+    },
+    {
+      "T1": 5.71,
+      "T2": 18.13,
+      "pendiente": 11.83,
+      "indice_NIR": 165.19,
+      "Fmax": 106.25,
+      "T_half": 6.81,
+      "slope_ratio": 0.993
+    },
+    {
+      "T1": 4.61,
+      "T2": 19.93,
+      "pendiente": 12.383,
+      "indice_NIR": 199.33,
+      "Fmax": 140.7,
+      "T_half": 8.21,
+      "slope_ratio": 1.007
+    },
+    {
+      "T1": 4.81,
+      "T2": 15.33,
+      "pendiente": 12.223,
+      "indice_NIR": 140.41,
+      "Fmax": 96.51,
+      "T_half": 5.71,
+      "slope_ratio": 0.948
+    },
+    {
+      "T1": 6.41,
+      "T2": 23.84,
+      "pendiente": 7.195,
+      "indice_NIR": 221.38,
+      "Fmax": 87.32,
+      "T_half": 9.12,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 2.4,
+      "T2": 17.13,
+      "pendiente": 8.553,
+      "indice_NIR": 191.16,
+      "Fmax": 90.14,
+      "T_half": 7.71,
+      "slope_ratio": 0.912
+    },
+    {
+      "T1": 7.01,
+      "T2": 18.23,
+      "pendiente": 10.252,
+      "indice_NIR": 150.23,
+      "Fmax": 89.85,
+      "T_half": 6.21,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 7.61,
+      "T2": 17.13,
+      "pendiente": 13.536,
+      "indice_NIR": 128.13,
+      "Fmax": 99.7,
+      "T_half": 5.31,
+      "slope_ratio": 0.993
+    },
+    {
+      "T1": 2.9,
+      "T2": 11.92,
+      "pendiente": 11.624,
+      "indice_NIR": 120.57,
+      "Fmax": 81.32,
+      "T_half": 5.01,
+      "slope_ratio": 0.924
+    },
+    {
+      "T1": 2.4,
+      "T2": 12.02,
+      "pendiente": 11.322,
+      "indice_NIR": 129.46,
+      "Fmax": 83.51,
+      "T_half": 5.41,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 5.61,
+      "T2": 21.24,
+      "pendiente": 9.156,
+      "indice_NIR": 203.41,
+      "Fmax": 107.52,
+      "T_half": 8.41,
+      "slope_ratio": 0.968
+    },
+    {
+      "T1": 3.91,
+      "T2": 17.63,
+      "pendiente": 14.239,
+      "indice_NIR": 178.4,
+      "Fmax": 141.4,
+      "T_half": 7.21,
+      "slope_ratio": 0.937
+    },
+    {
+      "T1": 7.11,
+      "T2": 15.23,
+      "pendiente": 14.667,
+      "indice_NIR": 109.66,
+      "Fmax": 92.57,
+      "T_half": 4.61,
+      "slope_ratio": 0.967
+    },
+    {
+      "T1": 3.51,
+      "T2": 14.02,
+      "pendiente": 14.615,
+      "indice_NIR": 140.79,
+      "Fmax": 119.71,
+      "T_half": 5.71,
+      "slope_ratio": 0.888
+    },
+    {
+      "T1": 4.51,
+      "T2": 12.72,
+      "pendiente": 16.924,
+      "indice_NIR": 110.64,
+      "Fmax": 105.87,
+      "T_half": 4.61,
+      "slope_ratio": 0.988
+    },
+    {
+      "T1": 5.21,
+      "T2": 13.92,
+      "pendiente": 20.324,
+      "indice_NIR": 118.38,
+      "Fmax": 138.15,
+      "T_half": 4.91,
+      "slope_ratio": 0.975
+    },
+    {
+      "T1": 2.4,
+      "T2": 20.93,
+      "pendiente": 6.734,
+      "indice_NIR": 235.43,
+      "Fmax": 92.5,
+      "T_half": 9.72,
+      "slope_ratio": 0.93
+    },
+    {
+      "T1": 7.21,
+      "T2": 25.44,
+      "pendiente": 11.753,
+      "indice_NIR": 230.68,
+      "Fmax": 149.13,
+      "T_half": 9.62,
+      "slope_ratio": 0.981
+    },
+    {
+      "T1": 6.91,
+      "T2": 23.74,
+      "pendiente": 10.205,
+      "indice_NIR": 216.02,
+      "Fmax": 124.87,
+      "T_half": 8.91,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 6.71,
+      "T2": 15.93,
+      "pendiente": 16.602,
+      "indice_NIR": 123.47,
+      "Fmax": 117.33,
+      "T_half": 5.11,
+      "slope_ratio": 0.955
+    },
+    {
+      "T1": 5.21,
+      "T2": 22.94,
+      "pendiente": 8.99,
+      "indice_NIR": 226.37,
+      "Fmax": 113.83,
+      "T_half": 9.42,
+      "slope_ratio": 0.983
+    },
+    {
+      "T1": 4.41,
+      "T2": 19.53,
+      "pendiente": 8.872,
+      "indice_NIR": 197.67,
+      "Fmax": 98.64,
+      "T_half": 8.11,
+      "slope_ratio": 0.91
+    },
+    {
+      "T1": 2.9,
+      "T2": 16.23,
+      "pendiente": 10.653,
+      "indice_NIR": 174.61,
+      "Fmax": 109.09,
+      "T_half": 7.01,
+      "slope_ratio": 0.946
+    },
+    {
+      "T1": 3.41,
+      "T2": 15.43,
+      "pendiente": 11.506,
+      "indice_NIR": 158.4,
+      "Fmax": 105.44,
+      "T_half": 6.41,
+      "slope_ratio": 0.925
+    },
+    {
+      "T1": 4.01,
+      "T2": 16.13,
+      "pendiente": 14.001,
+      "indice_NIR": 160.28,
+      "Fmax": 127.82,
+      "T_half": 6.51,
+      "slope_ratio": 0.971
+    },
+    {
+      "T1": 3.81,
+      "T2": 22.64,
+      "pendiente": 10.782,
+      "indice_NIR": 238.24,
+      "Fmax": 144.97,
+      "T_half": 9.92,
+      "slope_ratio": 0.942
+    },
+    {
+      "T1": 4.91,
+      "T2": 16.53,
+      "pendiente": 13.542,
+      "indice_NIR": 153.11,
+      "Fmax": 117.23,
+      "T_half": 6.11,
+      "slope_ratio": 0.986
+    },
+    {
+      "T1": 7.11,
+      "T2": 22.54,
+      "pendiente": 11.894,
+      "indice_NIR": 198.82,
+      "Fmax": 136.37,
+      "T_half": 8.11,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 5.31,
+      "T2": 20.23,
+      "pendiente": 8.981,
+      "indice_NIR": 196.6,
+      "Fmax": 100.18,
+      "T_half": 8.21,
+      "slope_ratio": 0.97
+    },
+    {
+      "T1": 6.51,
+      "T2": 16.43,
+      "pendiente": 16.783,
+      "indice_NIR": 133.8,
+      "Fmax": 128.61,
+      "T_half": 5.51,
+      "slope_ratio": 0.975
+    },
+    {
+      "T1": 7.21,
+      "T2": 16.33,
+      "pendiente": 17.742,
+      "indice_NIR": 123.07,
+      "Fmax": 122.82,
+      "T_half": 5.11,
+      "slope_ratio": 1.004
+    },
+    {
+      "T1": 2.6,
+      "T2": 18.73,
+      "pendiente": 7.264,
+      "indice_NIR": 209.36,
+      "Fmax": 85.9,
+      "T_half": 8.71,
+      "slope_ratio": 0.985
+    },
+    {
+      "T1": 7.71,
+      "T2": 16.83,
+      "pendiente": 20.619,
+      "indice_NIR": 124.23,
+      "Fmax": 146.37,
+      "T_half": 5.21,
+      "slope_ratio": 0.952
+    },
+    {
+      "T1": 6.81,
+      "T2": 21.54,
+      "pendiente": 12.982,
+      "indice_NIR": 191.77,
+      "Fmax": 134.22,
+      "T_half": 7.81,
+      "slope_ratio": 0.997
+    },
+    {
+      "T1": 6.91,
+      "T2": 25.44,
+      "pendiente": 8.083,
+      "indice_NIR": 236.38,
+      "Fmax": 103.21,
+      "T_half": 10.22,
+      "slope_ratio": 1.024
+    },
+    {
+      "T1": 5.71,
+      "T2": 14.32,
+      "pendiente": 18.109,
+      "indice_NIR": 117.29,
+      "Fmax": 123.15,
+      "T_half": 4.81,
+      "slope_ratio": 0.908
+    },
+    {
+      "T1": 3.11,
+      "T2": 17.43,
+      "pendiente": 11.06,
+      "indice_NIR": 187.24,
+      "Fmax": 119.95,
+      "T_half": 7.61,
+      "slope_ratio": 0.933
+    },
+    {
+      "T1": 4.81,
+      "T2": 18.63,
+      "pendiente": 13.21,
+      "indice_NIR": 180.59,
+      "Fmax": 133.94,
+      "T_half": 7.41,
+      "slope_ratio": 0.99
+    },
+    {
+      "T1": 6.81,
+      "T2": 20.23,
+      "pendiente": 11.936,
+      "indice_NIR": 177.24,
+      "Fmax": 121.43,
+      "T_half": 7.31,
+      "slope_ratio": 0.922
+    },
+    {
+      "T1": 7.61,
+      "T2": 16.63,
+      "pendiente": 12.371,
+      "indice_NIR": 121.36,
+      "Fmax": 88.11,
+      "T_half": 5.01,
+      "slope_ratio": 0.937
+    },
+    {
+      "T1": 2.5,
+      "T2": 17.93,
+      "pendiente": 9.831,
+      "indice_NIR": 199.76,
+      "Fmax": 109.41,
+      "T_half": 8.21,
+      "slope_ratio": 0.955
+    },
+    {
+      "T1": 6.71,
+      "T2": 22.24,
+      "pendiente": 9.048,
+      "indice_NIR": 201.39,
+      "Fmax": 103.49,
+      "T_half": 8.21,
+      "slope_ratio": 0.878
+    },
+    {
+      "T1": 7.51,
+      "T2": 24.04,
+      "pendiente": 8.318,
+      "indice_NIR": 213.49,
+      "Fmax": 98.95,
+      "T_half": 8.81,
+      "slope_ratio": 1.029
+    },
+    {
+      "T1": 4.21,
+      "T2": 15.53,
+      "pendiente": 10.517,
+      "indice_NIR": 150.39,
+      "Fmax": 91.0,
+      "T_half": 6.21,
+      "slope_ratio": 0.958
+    },
+    {
+      "T1": 3.01,
+      "T2": 21.64,
+      "pendiente": 8.952,
+      "indice_NIR": 236.86,
+      "Fmax": 114.46,
+      "T_half": 9.72,
+      "slope_ratio": 1.056
+    },
+    {
+      "T1": 4.41,
+      "T2": 20.63,
+      "pendiente": 10.251,
+      "indice_NIR": 209.86,
+      "Fmax": 118.96,
+      "T_half": 8.61,
+      "slope_ratio": 0.921
+    },
+    {
+      "T1": 7.61,
+      "T2": 24.54,
+      "pendiente": 9.326,
+      "indice_NIR": 215.57,
+      "Fmax": 113.64,
+      "T_half": 8.91,
+      "slope_ratio": 0.972
+    },
+    {
+      "T1": 4.21,
+      "T2": 23.64,
+      "pendiente": 9.715,
+      "indice_NIR": 243.07,
+      "Fmax": 132.82,
+      "T_half": 10.12,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 7.71,
+      "T2": 16.73,
+      "pendiente": 20.024,
+      "indice_NIR": 121.14,
+      "Fmax": 139.22,
+      "T_half": 5.01,
+      "slope_ratio": 0.96
+    },
+    {
+      "T1": 5.91,
+      "T2": 14.92,
+      "pendiente": 17.301,
+      "indice_NIR": 121.17,
+      "Fmax": 121.45,
+      "T_half": 5.01,
+      "slope_ratio": 0.951
+    },
+    {
+      "T1": 6.11,
+      "T2": 13.92,
+      "pendiente": 18.515,
+      "indice_NIR": 104.98,
+      "Fmax": 111.43,
+      "T_half": 4.31,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 7.01,
+      "T2": 18.13,
+      "pendiente": 13.123,
+      "indice_NIR": 147.5,
+      "Fmax": 112.09,
+      "T_half": 6.01,
+      "slope_ratio": 0.902
+    },
+    {
+      "T1": 4.71,
+      "T2": 15.93,
+      "pendiente": 17.459,
+      "indice_NIR": 148.79,
+      "Fmax": 144.17,
+      "T_half": 6.01,
+      "slope_ratio": 1.031
+    },
+    {
+      "T1": 6.71,
+      "T2": 15.63,
+      "pendiente": 22.523,
+      "indice_NIR": 119.69,
+      "Fmax": 149.78,
+      "T_half": 4.91,
+      "slope_ratio": 1.0
+    },
+    {
+      "T1": 7.31,
+      "T2": 18.33,
+      "pendiente": 16.619,
+      "indice_NIR": 145.64,
+      "Fmax": 138.93,
+      "T_half": 5.91,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 2.7,
+      "T2": 22.14,
+      "pendiente": 9.353,
+      "indice_NIR": 245.42,
+      "Fmax": 129.86,
+      "T_half": 10.22,
+      "slope_ratio": 0.906
+    },
+    {
+      "T1": 6.01,
+      "T2": 14.62,
+      "pendiente": 21.217,
+      "indice_NIR": 116.99,
+      "Fmax": 142.49,
+      "T_half": 4.81,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 2.2,
+      "T2": 12.72,
+      "pendiente": 10.981,
+      "indice_NIR": 139.32,
+      "Fmax": 89.84,
+      "T_half": 5.71,
+      "slope_ratio": 0.955
+    },
+    {
+      "T1": 6.71,
+      "T2": 16.63,
+      "pendiente": 18.532,
+      "indice_NIR": 133.51,
+      "Fmax": 143.32,
+      "T_half": 5.51,
+      "slope_ratio": 0.924
+    },
+    {
+      "T1": 6.01,
+      "T2": 14.02,
+      "pendiente": 13.0,
+      "indice_NIR": 108.71,
+      "Fmax": 80.06,
+      "T_half": 4.51,
+      "slope_ratio": 1.015
+    },
+    {
+      "T1": 2.3,
+      "T2": 17.13,
+      "pendiente": 13.013,
+      "indice_NIR": 192.82,
+      "Fmax": 135.98,
+      "T_half": 7.91,
+      "slope_ratio": 1.03
+    },
+    {
+      "T1": 3.41,
+      "T2": 21.24,
+      "pendiente": 6.593,
+      "indice_NIR": 225.75,
+      "Fmax": 85.86,
+      "T_half": 9.22,
+      "slope_ratio": 0.928
+    },
+    {
+      "T1": 6.91,
+      "T2": 25.44,
+      "pendiente": 9.995,
+      "indice_NIR": 234.9,
+      "Fmax": 135.2,
+      "T_half": 9.92,
+      "slope_ratio": 0.96
+    },
+    {
+      "T1": 6.21,
+      "T2": 23.84,
+      "pendiente": 6.543,
+      "indice_NIR": 224.1,
+      "Fmax": 83.96,
+      "T_half": 9.22,
+      "slope_ratio": 0.93
+    },
+    {
+      "T1": 3.31,
+      "T2": 12.32,
+      "pendiente": 16.388,
+      "indice_NIR": 121.66,
+      "Fmax": 115.49,
+      "T_half": 5.01,
+      "slope_ratio": 0.95
+    },
+    {
+      "T1": 6.51,
+      "T2": 21.64,
+      "pendiente": 12.752,
+      "indice_NIR": 195.58,
+      "Fmax": 139.79,
+      "T_half": 7.91,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 3.11,
+      "T2": 19.33,
+      "pendiente": 8.154,
+      "indice_NIR": 210.69,
+      "Fmax": 93.55,
+      "T_half": 8.61,
+      "slope_ratio": 0.973
+    },
+    {
+      "T1": 3.71,
+      "T2": 19.63,
+      "pendiente": 12.55,
+      "indice_NIR": 207.22,
+      "Fmax": 148.82,
+      "T_half": 8.51,
+      "slope_ratio": 0.879
+    },
+    {
+      "T1": 5.71,
+      "T2": 13.92,
+      "pendiente": 19.216,
+      "indice_NIR": 110.98,
+      "Fmax": 122.96,
+      "T_half": 4.61,
+      "slope_ratio": 0.919
+    },
+    {
+      "T1": 2.3,
+      "T2": 20.43,
+      "pendiente": 10.347,
+      "indice_NIR": 230.29,
+      "Fmax": 130.86,
+      "T_half": 9.52,
+      "slope_ratio": 0.996
+    },
+    {
+      "T1": 3.11,
+      "T2": 11.82,
+      "pendiente": 13.797,
+      "indice_NIR": 116.98,
+      "Fmax": 92.63,
+      "T_half": 4.81,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 7.81,
+      "T2": 21.04,
+      "pendiente": 14.106,
+      "indice_NIR": 172.0,
+      "Fmax": 134.72,
+      "T_half": 7.01,
+      "slope_ratio": 0.942
+    },
+    {
+      "T1": 5.91,
+      "T2": 20.33,
+      "pendiente": 8.676,
+      "indice_NIR": 188.04,
+      "Fmax": 90.19,
+      "T_half": 7.51,
+      "slope_ratio": 0.974
+    },
+    {
+      "T1": 7.71,
+      "T2": 18.93,
+      "pendiente": 14.4,
+      "indice_NIR": 148.46,
+      "Fmax": 120.49,
+      "T_half": 6.01,
+      "slope_ratio": 0.935
+    },
+    {
+      "T1": 6.21,
+      "T2": 21.64,
+      "pendiente": 13.165,
+      "indice_NIR": 198.93,
+      "Fmax": 145.69,
+      "T_half": 8.01,
+      "slope_ratio": 0.931
+    },
+    {
+      "T1": 2.9,
+      "T2": 16.53,
+      "pendiente": 12.102,
+      "indice_NIR": 178.98,
+      "Fmax": 108.11,
+      "T_half": 7.31,
+      "slope_ratio": 1.113
+    },
+    {
+      "T1": 4.81,
+      "T2": 13.92,
+      "pendiente": 12.666,
+      "indice_NIR": 120.96,
+      "Fmax": 89.48,
+      "T_half": 5.01,
+      "slope_ratio": 0.93
+    },
+    {
+      "T1": 3.81,
+      "T2": 14.92,
+      "pendiente": 12.562,
+      "indice_NIR": 149.3,
+      "Fmax": 109.57,
+      "T_half": 6.11,
+      "slope_ratio": 0.909
+    },
+    {
+      "T1": 5.61,
+      "T2": 20.93,
+      "pendiente": 10.005,
+      "indice_NIR": 197.0,
+      "Fmax": 108.76,
+      "T_half": 8.01,
+      "slope_ratio": 0.931
+    },
+    {
+      "T1": 4.51,
+      "T2": 14.62,
+      "pendiente": 15.479,
+      "indice_NIR": 135.44,
+      "Fmax": 121.43,
+      "T_half": 5.61,
+      "slope_ratio": 0.95
+    },
+    {
+      "T1": 3.91,
+      "T2": 11.92,
+      "pendiente": 17.696,
+      "indice_NIR": 108.62,
+      "Fmax": 109.1,
+      "T_half": 4.61,
+      "slope_ratio": 0.988
+    },
+    {
+      "T1": 4.91,
+      "T2": 15.23,
+      "pendiente": 15.164,
+      "indice_NIR": 137.73,
+      "Fmax": 119.56,
+      "T_half": 5.61,
+      "slope_ratio": 0.931
+    },
+    {
+      "T1": 5.41,
+      "T2": 21.54,
+      "pendiente": 10.62,
+      "indice_NIR": 206.22,
+      "Fmax": 125.32,
+      "T_half": 8.31,
+      "slope_ratio": 0.948
+    },
+    {
+      "T1": 5.91,
+      "T2": 17.33,
+      "pendiente": 15.989,
+      "indice_NIR": 151.3,
+      "Fmax": 134.7,
+      "T_half": 6.11,
+      "slope_ratio": 0.973
+    },
+    {
+      "T1": 5.31,
+      "T2": 18.13,
+      "pendiente": 13.006,
+      "indice_NIR": 167.57,
+      "Fmax": 123.93,
+      "T_half": 6.71,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 4.31,
+      "T2": 17.93,
+      "pendiente": 12.475,
+      "indice_NIR": 179.56,
+      "Fmax": 131.65,
+      "T_half": 7.31,
+      "slope_ratio": 0.9
+    },
+    {
+      "T1": 7.41,
+      "T2": 26.04,
+      "pendiente": 8.714,
+      "indice_NIR": 233.13,
+      "Fmax": 118.25,
+      "T_half": 9.62,
+      "slope_ratio": 0.983
+    },
+    {
+      "T1": 5.11,
+      "T2": 22.44,
+      "pendiente": 8.092,
+      "indice_NIR": 219.08,
+      "Fmax": 102.07,
+      "T_half": 8.91,
+      "slope_ratio": 0.932
+    },
+    {
+      "T1": 7.21,
+      "T2": 20.53,
+      "pendiente": 8.672,
+      "indice_NIR": 176.74,
+      "Fmax": 88.11,
+      "T_half": 7.21,
+      "slope_ratio": 0.902
+    },
+    {
+      "T1": 2.5,
+      "T2": 20.23,
+      "pendiente": 6.497,
+      "indice_NIR": 225.18,
+      "Fmax": 85.23,
+      "T_half": 9.22,
+      "slope_ratio": 0.955
+    },
+    {
+      "T1": 3.71,
+      "T2": 15.33,
+      "pendiente": 10.521,
+      "indice_NIR": 153.0,
+      "Fmax": 92.33,
+      "T_half": 6.21,
+      "slope_ratio": 0.879
+    },
+    {
+      "T1": 3.91,
+      "T2": 20.33,
+      "pendiente": 6.759,
+      "indice_NIR": 212.05,
+      "Fmax": 81.0,
+      "T_half": 8.71,
+      "slope_ratio": 0.951
+    },
+    {
+      "T1": 7.01,
+      "T2": 24.74,
+      "pendiente": 8.022,
+      "indice_NIR": 225.97,
+      "Fmax": 107.36,
+      "T_half": 9.42,
+      "slope_ratio": 0.933
+    },
+    {
+      "T1": 3.01,
+      "T2": 17.73,
+      "pendiente": 8.215,
+      "indice_NIR": 191.84,
+      "Fmax": 88.54,
+      "T_half": 7.71,
+      "slope_ratio": 0.927
+    },
+    {
+      "T1": 4.21,
+      "T2": 23.24,
+      "pendiente": 11.076,
+      "indice_NIR": 239.67,
+      "Fmax": 149.65,
+      "T_half": 10.02,
+      "slope_ratio": 1.001
+    },
+    {
+      "T1": 6.71,
+      "T2": 17.93,
+      "pendiente": 15.173,
+      "indice_NIR": 149.7,
+      "Fmax": 128.12,
+      "T_half": 6.21,
+      "slope_ratio": 0.946
+    },
+    {
+      "T1": 6.21,
+      "T2": 18.43,
+      "pendiente": 13.26,
+      "indice_NIR": 161.54,
+      "Fmax": 124.81,
+      "T_half": 6.61,
+      "slope_ratio": 0.879
+    },
+    {
+      "T1": 2.1,
+      "T2": 12.22,
+      "pendiente": 15.665,
+      "indice_NIR": 134.36,
+      "Fmax": 116.7,
+      "T_half": 5.51,
+      "slope_ratio": 0.994
+    },
+    {
+      "T1": 3.11,
+      "T2": 12.52,
+      "pendiente": 18.482,
+      "indice_NIR": 128.05,
+      "Fmax": 138.47,
+      "T_half": 5.31,
+      "slope_ratio": 0.935
+    },
+    {
+      "T1": 8.01,
+      "T2": 22.14,
+      "pendiente": 13.259,
+      "indice_NIR": 185.81,
+      "Fmax": 138.44,
+      "T_half": 7.61,
+      "slope_ratio": 0.988
+    },
+    {
+      "T1": 8.01,
+      "T2": 17.23,
+      "pendiente": 15.412,
+      "indice_NIR": 124.18,
+      "Fmax": 111.58,
+      "T_half": 5.11,
+      "slope_ratio": 0.909
+    },
+    {
+      "T1": 4.41,
+      "T2": 12.92,
+      "pendiente": 19.666,
+      "indice_NIR": 115.34,
+      "Fmax": 132.48,
+      "T_half": 4.81,
+      "slope_ratio": 0.967
+    },
+    {
+      "T1": 4.71,
+      "T2": 17.93,
+      "pendiente": 8.975,
+      "indice_NIR": 173.09,
+      "Fmax": 90.71,
+      "T_half": 6.91,
+      "slope_ratio": 0.907
+    },
+    {
+      "T1": 3.21,
+      "T2": 21.44,
+      "pendiente": 6.573,
+      "indice_NIR": 233.0,
+      "Fmax": 88.11,
+      "T_half": 9.72,
+      "slope_ratio": 0.968
+    },
+    {
+      "T1": 3.41,
+      "T2": 14.52,
+      "pendiente": 13.835,
+      "indice_NIR": 146.9,
+      "Fmax": 114.25,
+      "T_half": 6.01,
+      "slope_ratio": 0.942
+    },
+    {
+      "T1": 5.51,
+      "T2": 19.03,
+      "pendiente": 8.575,
+      "indice_NIR": 177.03,
+      "Fmax": 85.76,
+      "T_half": 7.21,
+      "slope_ratio": 0.948
+    },
+    {
+      "T1": 3.51,
+      "T2": 21.14,
+      "pendiente": 9.884,
+      "indice_NIR": 226.02,
+      "Fmax": 124.86,
+      "T_half": 9.32,
+      "slope_ratio": 0.992
+    },
+    {
+      "T1": 6.01,
+      "T2": 21.44,
+      "pendiente": 11.744,
+      "indice_NIR": 201.56,
+      "Fmax": 133.49,
+      "T_half": 8.31,
+      "slope_ratio": 1.003
+    },
+    {
+      "T1": 2.4,
+      "T2": 14.42,
+      "pendiente": 12.966,
+      "indice_NIR": 157.81,
+      "Fmax": 117.99,
+      "T_half": 6.31,
+      "slope_ratio": 0.945
+    },
+    {
+      "T1": 4.11,
+      "T2": 21.74,
+      "pendiente": 8.813,
+      "indice_NIR": 225.15,
+      "Fmax": 114.66,
+      "T_half": 9.32,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 6.61,
+      "T2": 24.44,
+      "pendiente": 9.49,
+      "indice_NIR": 225.36,
+      "Fmax": 116.38,
+      "T_half": 9.32,
+      "slope_ratio": 0.955
+    },
+    {
+      "T1": 7.51,
+      "T2": 22.04,
+      "pendiente": 13.245,
+      "indice_NIR": 189.83,
+      "Fmax": 139.51,
+      "T_half": 7.81,
+      "slope_ratio": 0.99
+    },
+    {
+      "T1": 4.01,
+      "T2": 17.53,
+      "pendiente": 12.133,
+      "indice_NIR": 177.78,
+      "Fmax": 117.11,
+      "T_half": 7.31,
+      "slope_ratio": 0.948
+    },
+    {
+      "T1": 2.7,
+      "T2": 15.03,
+      "pendiente": 15.52,
+      "indice_NIR": 163.3,
+      "Fmax": 143.74,
+      "T_half": 6.71,
+      "slope_ratio": 0.996
+    },
+    {
+      "T1": 5.81,
+      "T2": 15.53,
+      "pendiente": 14.069,
+      "indice_NIR": 129.95,
+      "Fmax": 103.69,
+      "T_half": 5.31,
+      "slope_ratio": 0.952
+    },
+    {
+      "T1": 3.21,
+      "T2": 11.12,
+      "pendiente": 22.708,
+      "indice_NIR": 106.79,
+      "Fmax": 144.45,
+      "T_half": 4.41,
+      "slope_ratio": 0.958
+    },
+    {
+      "T1": 4.71,
+      "T2": 16.03,
+      "pendiente": 13.97,
+      "indice_NIR": 149.77,
+      "Fmax": 121.77,
+      "T_half": 6.11,
+      "slope_ratio": 0.888
+    },
+    {
+      "T1": 2.1,
+      "T2": 13.02,
+      "pendiente": 15.394,
+      "indice_NIR": 144.48,
+      "Fmax": 129.28,
+      "T_half": 5.91,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 5.91,
+      "T2": 25.24,
+      "pendiente": 9.69,
+      "indice_NIR": 240.97,
+      "Fmax": 127.26,
+      "T_half": 10.02,
+      "slope_ratio": 1.01
+    },
+    {
+      "T1": 9.02,
+      "T2": 19.13,
+      "pendiente": 9.856,
+      "indice_NIR": 135.83,
+      "Fmax": 75.82,
+      "T_half": 5.61,
+      "slope_ratio": 0.996
+    },
+    {
+      "T1": 9.52,
+      "T2": 20.83,
+      "pendiente": 8.124,
+      "indice_NIR": 149.98,
+      "Fmax": 71.69,
+      "T_half": 6.11,
+      "slope_ratio": 0.917
+    },
+    {
+      "T1": 9.72,
+      "T2": 16.13,
+      "pendiente": 13.468,
+      "indice_NIR": 86.73,
+      "Fmax": 68.83,
+      "T_half": 3.61,
+      "slope_ratio": 0.96
+    },
+    {
+      "T1": 8.91,
+      "T2": 17.83,
+      "pendiente": 9.74,
+      "indice_NIR": 119.46,
+      "Fmax": 66.23,
+      "T_half": 4.91,
+      "slope_ratio": 0.992
+    },
+    {
+      "T1": 9.92,
+      "T2": 21.34,
+      "pendiente": 5.958,
+      "indice_NIR": 152.03,
+      "Fmax": 52.65,
+      "T_half": 6.31,
+      "slope_ratio": 0.906
+    },
+    {
+      "T1": 9.62,
+      "T2": 19.53,
+      "pendiente": 6.856,
+      "indice_NIR": 134.52,
+      "Fmax": 53.82,
+      "T_half": 5.61,
+      "slope_ratio": 0.94
+    },
+    {
+      "T1": 8.31,
+      "T2": 14.22,
+      "pendiente": 15.473,
+      "indice_NIR": 81.21,
+      "Fmax": 70.59,
+      "T_half": 3.41,
+      "slope_ratio": 1.0
+    },
+    {
+      "T1": 9.02,
+      "T2": 20.43,
+      "pendiente": 6.768,
+      "indice_NIR": 152.19,
+      "Fmax": 59.46,
+      "T_half": 6.31,
+      "slope_ratio": 0.931
+    },
+    {
+      "T1": 10.02,
+      "T2": 18.13,
+      "pendiente": 11.348,
+      "indice_NIR": 109.32,
+      "Fmax": 71.32,
+      "T_half": 4.51,
+      "slope_ratio": 0.936
+    },
+    {
+      "T1": 8.21,
+      "T2": 17.13,
+      "pendiente": 10.74,
+      "indice_NIR": 119.85,
+      "Fmax": 72.06,
+      "T_half": 4.91,
+      "slope_ratio": 1.021
+    },
+    {
+      "T1": 9.92,
+      "T2": 20.43,
+      "pendiente": 5.165,
+      "indice_NIR": 140.15,
+      "Fmax": 41.4,
+      "T_half": 5.71,
+      "slope_ratio": 0.94
+    },
+    {
+      "T1": 8.81,
+      "T2": 14.72,
+      "pendiente": 9.313,
+      "indice_NIR": 81.64,
+      "Fmax": 44.02,
+      "T_half": 3.41,
+      "slope_ratio": 1.011
+    },
+    {
+      "T1": 9.42,
+      "T2": 19.13,
+      "pendiente": 9.295,
+      "indice_NIR": 132.2,
+      "Fmax": 70.74,
+      "T_half": 5.61,
+      "slope_ratio": 0.936
+    },
+    {
+      "T1": 9.82,
+      "T2": 19.73,
+      "pendiente": 9.212,
+      "indice_NIR": 133.5,
+      "Fmax": 72.14,
+      "T_half": 5.51,
+      "slope_ratio": 0.937
+    },
+    {
+      "T1": 8.11,
+      "T2": 15.13,
+      "pendiente": 11.452,
+      "indice_NIR": 95.76,
+      "Fmax": 64.61,
+      "T_half": 4.01,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 9.72,
+      "T2": 15.43,
+      "pendiente": 13.146,
+      "indice_NIR": 78.23,
+      "Fmax": 60.18,
+      "T_half": 3.31,
+      "slope_ratio": 0.983
+    },
+    {
+      "T1": 9.42,
+      "T2": 15.23,
+      "pendiente": 12.323,
+      "indice_NIR": 80.1,
+      "Fmax": 55.73,
+      "T_half": 3.41,
+      "slope_ratio": 0.986
+    },
+    {
+      "T1": 9.82,
+      "T2": 19.43,
+      "pendiente": 6.875,
+      "indice_NIR": 129.29,
+      "Fmax": 49.24,
+      "T_half": 5.31,
+      "slope_ratio": 0.973
+    },
+    {
+      "T1": 9.72,
+      "T2": 17.43,
+      "pendiente": 12.123,
+      "indice_NIR": 104.41,
+      "Fmax": 73.79,
+      "T_half": 4.41,
+      "slope_ratio": 0.943
+    },
+    {
+      "T1": 8.71,
+      "T2": 17.73,
+      "pendiente": 7.91,
+      "indice_NIR": 122.33,
+      "Fmax": 55.85,
+      "T_half": 5.11,
+      "slope_ratio": 0.919
+    },
+    {
+      "T1": 8.61,
+      "T2": 19.43,
+      "pendiente": 5.607,
+      "indice_NIR": 144.93,
+      "Fmax": 47.44,
+      "T_half": 6.01,
+      "slope_ratio": 0.971
+    },
+    {
+      "T1": 8.21,
+      "T2": 15.83,
+      "pendiente": 11.493,
+      "indice_NIR": 103.47,
+      "Fmax": 68.67,
+      "T_half": 4.31,
+      "slope_ratio": 0.96
+    },
+    {
+      "T1": 9.62,
+      "T2": 21.24,
+      "pendiente": 5.902,
+      "indice_NIR": 153.3,
+      "Fmax": 53.18,
+      "T_half": 6.21,
+      "slope_ratio": 0.956
+    },
+    {
+      "T1": 8.91,
+      "T2": 15.33,
+      "pendiente": 12.386,
+      "indice_NIR": 88.25,
+      "Fmax": 62.67,
+      "T_half": 3.71,
+      "slope_ratio": 1.015
+    },
+    {
+      "T1": 10.12,
+      "T2": 19.83,
+      "pendiente": 8.339,
+      "indice_NIR": 130.62,
+      "Fmax": 63.84,
+      "T_half": 5.41,
+      "slope_ratio": 0.956
+    },
+    {
+      "T1": 8.81,
+      "T2": 19.93,
+      "pendiente": 7.18,
+      "indice_NIR": 147.26,
+      "Fmax": 59.79,
+      "T_half": 6.01,
+      "slope_ratio": 1.007
+    },
+    {
+      "T1": 8.31,
+      "T2": 16.03,
+      "pendiente": 7.063,
+      "indice_NIR": 105.55,
+      "Fmax": 42.66,
+      "T_half": 4.51,
+      "slope_ratio": 1.0
+    },
+    {
+      "T1": 8.51,
+      "T2": 14.22,
+      "pendiente": 12.513,
+      "indice_NIR": 79.35,
+      "Fmax": 57.73,
+      "T_half": 3.31,
+      "slope_ratio": 0.991
+    },
+    {
+      "T1": 9.42,
+      "T2": 16.93,
+      "pendiente": 9.475,
+      "indice_NIR": 103.97,
+      "Fmax": 56.68,
+      "T_half": 4.41,
+      "slope_ratio": 0.981
+    },
+    {
+      "T1": 10.02,
+      "T2": 20.03,
+      "pendiente": 7.992,
+      "indice_NIR": 134.58,
+      "Fmax": 61.62,
+      "T_half": 5.51,
+      "slope_ratio": 1.008
+    },
+    {
+      "T1": 8.61,
+      "T2": 19.53,
+      "pendiente": 5.733,
+      "indice_NIR": 145.63,
+      "Fmax": 49.4,
+      "T_half": 6.01,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 8.71,
+      "T2": 19.73,
+      "pendiente": 7.416,
+      "indice_NIR": 146.32,
+      "Fmax": 61.25,
+      "T_half": 5.91,
+      "slope_ratio": 0.97
+    },
+    {
+      "T1": 9.52,
+      "T2": 18.73,
+      "pendiente": 9.178,
+      "indice_NIR": 122.73,
+      "Fmax": 65.93,
+      "T_half": 5.01,
+      "slope_ratio": 0.927
+    },
+    {
+      "T1": 8.61,
+      "T2": 15.63,
+      "pendiente": 9.488,
+      "indice_NIR": 96.31,
+      "Fmax": 52.67,
+      "T_half": 4.11,
+      "slope_ratio": 0.954
+    },
+    {
+      "T1": 8.51,
+      "T2": 19.13,
+      "pendiente": 6.181,
+      "indice_NIR": 144.16,
+      "Fmax": 51.17,
+      "T_half": 5.91,
+      "slope_ratio": 0.945
+    },
+    {
+      "T1": 9.22,
+      "T2": 19.53,
+      "pendiente": 8.84,
+      "indice_NIR": 137.84,
+      "Fmax": 71.29,
+      "T_half": 5.61,
+      "slope_ratio": 0.927
+    },
+    {
+      "T1": 8.91,
+      "T2": 17.43,
+      "pendiente": 11.791,
+      "indice_NIR": 114.19,
+      "Fmax": 79.52,
+      "T_half": 4.61,
+      "slope_ratio": 0.888
+    },
+    {
+      "T1": 9.42,
+      "T2": 19.83,
+      "pendiente": 9.648,
+      "indice_NIR": 139.33,
+      "Fmax": 76.09,
+      "T_half": 5.71,
+      "slope_ratio": 0.979
+    },
+    {
+      "T1": 9.62,
+      "T2": 16.33,
+      "pendiente": 11.933,
+      "indice_NIR": 91.96,
+      "Fmax": 62.16,
+      "T_half": 3.91,
+      "slope_ratio": 0.976
+    },
+    {
+      "T1": 8.21,
+      "T2": 17.83,
+      "pendiente": 10.734,
+      "indice_NIR": 127.27,
+      "Fmax": 78.14,
+      "T_half": 5.21,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 9.02,
+      "T2": 17.23,
+      "pendiente": 6.43,
+      "indice_NIR": 110.66,
+      "Fmax": 41.31,
+      "T_half": 4.61,
+      "slope_ratio": 0.972
+    },
+    {
+      "T1": 10.02,
+      "T2": 16.13,
+      "pendiente": 8.415,
+      "indice_NIR": 85.78,
+      "Fmax": 41.35,
+      "T_half": 3.71,
+      "slope_ratio": 1.029
+    },
+    {
+      "T1": 8.51,
+      "T2": 14.52,
+      "pendiente": 11.978,
+      "indice_NIR": 83.02,
+      "Fmax": 57.87,
+      "T_half": 3.51,
+      "slope_ratio": 0.991
+    },
+    {
+      "T1": 9.12,
+      "T2": 16.53,
+      "pendiente": 7.037,
+      "indice_NIR": 101.48,
+      "Fmax": 41.91,
+      "T_half": 4.31,
+      "slope_ratio": 0.946
+    },
+    {
+      "T1": 8.21,
+      "T2": 16.13,
+      "pendiente": 6.802,
+      "indice_NIR": 107.22,
+      "Fmax": 42.22,
+      "T_half": 4.51,
+      "slope_ratio": 0.963
+    },
+    {
+      "T1": 9.42,
+      "T2": 16.33,
+      "pendiente": 9.774,
+      "indice_NIR": 93.51,
+      "Fmax": 51.86,
+      "T_half": 3.91,
+      "slope_ratio": 0.951
+    },
+    {
+      "T1": 8.81,
+      "T2": 16.93,
+      "pendiente": 6.373,
+      "indice_NIR": 109.55,
+      "Fmax": 39.96,
+      "T_half": 4.51,
+      "slope_ratio": 0.961
+    },
+    {
+      "T1": 8.31,
+      "T2": 18.93,
+      "pendiente": 4.939,
+      "indice_NIR": 143.14,
+      "Fmax": 39.98,
+      "T_half": 5.91,
+      "slope_ratio": 1.009
+    },
+    {
+      "T1": 9.02,
+      "T2": 17.53,
+      "pendiente": 8.073,
+      "indice_NIR": 115.19,
+      "Fmax": 53.17,
+      "T_half": 4.81,
+      "slope_ratio": 0.997
+    },
+    {
+      "T1": 8.91,
+      "T2": 19.23,
+      "pendiente": 9.293,
+      "indice_NIR": 136.9,
+      "Fmax": 73.59,
+      "T_half": 5.51,
+      "slope_ratio": 0.948
+    },
+    {
+      "T1": 4.41,
+      "T2": 13.52,
+      "pendiente": 2.52,
+      "indice_NIR": 124.76,
+      "Fmax": 18.17,
+      "T_half": 5.21,
+      "slope_ratio": 0.981
+    },
+    {
+      "T1": 11.32,
+      "T2": 20.53,
+      "pendiente": 12.777,
+      "indice_NIR": 123.44,
+      "Fmax": 89.62,
+      "T_half": 5.21,
+      "slope_ratio": 0.922
+    },
+    {
+      "T1": 10.12,
+      "T2": 20.93,
+      "pendiente": 13.816,
+      "indice_NIR": 143.47,
+      "Fmax": 112.7,
+      "T_half": 5.91,
+      "slope_ratio": 1.02
+    },
+    {
+      "T1": 3.11,
+      "T2": 11.02,
+      "pendiente": 2.158,
+      "indice_NIR": 107.45,
+      "Fmax": 13.72,
+      "T_half": 4.51,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 10.12,
+      "T2": 18.93,
+      "pendiente": 10.043,
+      "indice_NIR": 119.92,
+      "Fmax": 71.72,
+      "T_half": 5.01,
+      "slope_ratio": 0.948
+    },
+    {
+      "T1": 2.8,
+      "T2": 14.72,
+      "pendiente": 1.672,
+      "indice_NIR": 157.04,
+      "Fmax": 15.16,
+      "T_half": 6.41,
+      "slope_ratio": 0.902
+    },
+    {
+      "T1": 11.22,
+      "T2": 24.74,
+      "pendiente": 7.29,
+      "indice_NIR": 176.18,
+      "Fmax": 70.34,
+      "T_half": 7.11,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 8.01,
+      "T2": 19.93,
+      "pendiente": 1.561,
+      "indice_NIR": 157.38,
+      "Fmax": 14.1,
+      "T_half": 6.41,
+      "slope_ratio": 0.961
+    },
+    {
+      "T1": 8.01,
+      "T2": 17.33,
+      "pendiente": 3.372,
+      "indice_NIR": 125.49,
+      "Fmax": 23.94,
+      "T_half": 5.21,
+      "slope_ratio": 1.008
+    },
+    {
+      "T1": 5.21,
+      "T2": 16.93,
+      "pendiente": 2.786,
+      "indice_NIR": 156.18,
+      "Fmax": 24.77,
+      "T_half": 6.51,
+      "slope_ratio": 0.986
+    },
+    {
+      "T1": 11.62,
+      "T2": 21.54,
+      "pendiente": 15.424,
+      "indice_NIR": 131.11,
+      "Fmax": 117.85,
+      "T_half": 5.31,
+      "slope_ratio": 0.936
+    },
+    {
+      "T1": 11.22,
+      "T2": 20.33,
+      "pendiente": 13.276,
+      "indice_NIR": 122.56,
+      "Fmax": 94.44,
+      "T_half": 5.01,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 2.6,
+      "T2": 10.42,
+      "pendiente": 2.759,
+      "indice_NIR": 105.79,
+      "Fmax": 16.44,
+      "T_half": 4.41,
+      "slope_ratio": 0.977
+    },
+    {
+      "T1": 10.02,
+      "T2": 18.83,
+      "pendiente": 16.805,
+      "indice_NIR": 118.05,
+      "Fmax": 112.98,
+      "T_half": 4.91,
+      "slope_ratio": 0.968
+    },
+    {
+      "T1": 7.21,
+      "T2": 17.03,
+      "pendiente": 3.134,
+      "indice_NIR": 131.38,
+      "Fmax": 23.49,
+      "T_half": 5.41,
+      "slope_ratio": 0.963
+    },
+    {
+      "T1": 6.21,
+      "T2": 14.62,
+      "pendiente": 2.148,
+      "indice_NIR": 114.4,
+      "Fmax": 13.82,
+      "T_half": 4.81,
+      "slope_ratio": 1.023
+    },
+    {
+      "T1": 3.31,
+      "T2": 14.32,
+      "pendiente": 2.939,
+      "indice_NIR": 147.37,
+      "Fmax": 24.92,
+      "T_half": 6.11,
+      "slope_ratio": 0.964
+    },
+    {
+      "T1": 2.0,
+      "T2": 9.82,
+      "pendiente": 4.207,
+      "indice_NIR": 104.41,
+      "Fmax": 24.8,
+      "T_half": 4.31,
+      "slope_ratio": 1.021
+    },
+    {
+      "T1": 2.9,
+      "T2": 16.73,
+      "pendiente": 2.367,
+      "indice_NIR": 180.91,
+      "Fmax": 23.43,
+      "T_half": 7.41,
+      "slope_ratio": 0.966
+    },
+    {
+      "T1": 5.71,
+      "T2": 17.63,
+      "pendiente": 1.738,
+      "indice_NIR": 157.89,
+      "Fmax": 15.53,
+      "T_half": 6.51,
+      "slope_ratio": 0.962
+    },
+    {
+      "T1": 6.21,
+      "T2": 15.93,
+      "pendiente": 2.899,
+      "indice_NIR": 129.36,
+      "Fmax": 20.57,
+      "T_half": 5.21,
+      "slope_ratio": 1.014
+    },
+    {
+      "T1": 11.72,
+      "T2": 19.43,
+      "pendiente": 17.0,
+      "indice_NIR": 104.9,
+      "Fmax": 105.21,
+      "T_half": 4.41,
+      "slope_ratio": 0.927
+    },
+    {
+      "T1": 11.92,
+      "T2": 21.14,
+      "pendiente": 15.1,
+      "indice_NIR": 125.64,
+      "Fmax": 106.37,
+      "T_half": 5.21,
+      "slope_ratio": 0.967
+    },
+    {
+      "T1": 11.12,
+      "T2": 21.44,
+      "pendiente": 13.984,
+      "indice_NIR": 138.25,
+      "Fmax": 110.33,
+      "T_half": 5.71,
+      "slope_ratio": 0.987
+    },
+    {
+      "T1": 6.11,
+      "T2": 18.83,
+      "pendiente": 2.592,
+      "indice_NIR": 169.4,
+      "Fmax": 24.81,
+      "T_half": 6.91,
+      "slope_ratio": 0.915
+    },
+    {
+      "T1": 5.01,
+      "T2": 16.23,
+      "pendiente": 1.394,
+      "indice_NIR": 148.32,
+      "Fmax": 12.15,
+      "T_half": 6.01,
+      "slope_ratio": 0.925
+    },
+    {
+      "T1": 11.02,
+      "T2": 21.54,
+      "pendiente": 9.478,
+      "indice_NIR": 139.15,
+      "Fmax": 75.43,
+      "T_half": 5.71,
+      "slope_ratio": 0.963
+    },
+    {
+      "T1": 8.31,
+      "T2": 18.63,
+      "pendiente": 2.663,
+      "indice_NIR": 137.79,
+      "Fmax": 20.87,
+      "T_half": 5.61,
+      "slope_ratio": 1.011
+    },
+    {
+      "T1": 11.92,
+      "T2": 20.83,
+      "pendiente": 11.849,
+      "indice_NIR": 119.11,
+      "Fmax": 81.69,
+      "T_half": 4.91,
+      "slope_ratio": 0.945
+    },
+    {
+      "T1": 11.82,
+      "T2": 25.64,
+      "pendiente": 7.873,
+      "indice_NIR": 180.82,
+      "Fmax": 82.82,
+      "T_half": 7.51,
+      "slope_ratio": 0.966
+    },
+    {
+      "T1": 11.52,
+      "T2": 25.24,
+      "pendiente": 9.56,
+      "indice_NIR": 178.62,
+      "Fmax": 92.68,
+      "T_half": 7.21,
+      "slope_ratio": 1.0
+    },
+    {
+      "T1": 11.12,
+      "T2": 23.74,
+      "pendiente": 11.933,
+      "indice_NIR": 167.28,
+      "Fmax": 113.97,
+      "T_half": 6.91,
+      "slope_ratio": 0.961
+    },
+    {
+      "T1": 6.01,
+      "T2": 14.42,
+      "pendiente": 3.564,
+      "indice_NIR": 112.21,
+      "Fmax": 23.73,
+      "T_half": 4.51,
+      "slope_ratio": 0.917
+    },
+    {
+      "T1": 8.11,
+      "T2": 21.24,
+      "pendiente": 1.337,
+      "indice_NIR": 172.23,
+      "Fmax": 13.33,
+      "T_half": 7.01,
+      "slope_ratio": 0.942
+    },
+    {
+      "T1": 11.52,
+      "T2": 19.23,
+      "pendiente": 20.805,
+      "indice_NIR": 104.82,
+      "Fmax": 128.81,
+      "T_half": 4.41,
+      "slope_ratio": 0.933
+    },
+    {
+      "T1": 10.72,
+      "T2": 23.34,
+      "pendiente": 12.918,
+      "indice_NIR": 165.64,
+      "Fmax": 123.3,
+      "T_half": 6.81,
+      "slope_ratio": 0.984
+    },
+    {
+      "T1": 4.31,
+      "T2": 16.13,
+      "pendiente": 2.146,
+      "indice_NIR": 156.52,
+      "Fmax": 19.56,
+      "T_half": 6.41,
+      "slope_ratio": 0.909
+    },
+    {
+      "T1": 10.92,
+      "T2": 22.54,
+      "pendiente": 13.914,
+      "indice_NIR": 155.8,
+      "Fmax": 125.96,
+      "T_half": 6.51,
+      "slope_ratio": 0.985
+    },
+    {
+      "T1": 3.41,
+      "T2": 13.62,
+      "pendiente": 2.208,
+      "indice_NIR": 136.61,
+      "Fmax": 17.1,
+      "T_half": 5.61,
+      "slope_ratio": 1.002
+    },
+    {
+      "T1": 10.32,
+      "T2": 19.03,
+      "pendiente": 16.308,
+      "indice_NIR": 117.24,
+      "Fmax": 110.92,
+      "T_half": 4.81,
+      "slope_ratio": 0.962
+    },
+    {
+      "T1": 12.02,
+      "T2": 21.14,
+      "pendiente": 10.454,
+      "indice_NIR": 124.26,
+      "Fmax": 76.07,
+      "T_half": 5.21,
+      "slope_ratio": 0.955
+    },
+    {
+      "T1": 11.62,
+      "T2": 25.24,
+      "pendiente": 8.702,
+      "indice_NIR": 178.72,
+      "Fmax": 86.63,
+      "T_half": 7.31,
+      "slope_ratio": 0.95
+    },
+    {
+      "T1": 10.42,
+      "T2": 21.64,
+      "pendiente": 11.793,
+      "indice_NIR": 149.28,
+      "Fmax": 97.85,
+      "T_half": 6.11,
+      "slope_ratio": 1.0
+    },
+    {
+      "T1": 10.52,
+      "T2": 18.53,
+      "pendiente": 15.88,
+      "indice_NIR": 107.3,
+      "Fmax": 98.43,
+      "T_half": 4.41,
+      "slope_ratio": 0.953
+    },
+    {
+      "T1": 11.42,
+      "T2": 22.44,
+      "pendiente": 9.261,
+      "indice_NIR": 146.62,
+      "Fmax": 76.42,
+      "T_half": 5.91,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 3.81,
+      "T2": 13.42,
+      "pendiente": 2.902,
+      "indice_NIR": 129.33,
+      "Fmax": 21.88,
+      "T_half": 5.41,
+      "slope_ratio": 0.923
+    },
+    {
+      "T1": 11.82,
+      "T2": 26.24,
+      "pendiente": 11.867,
+      "indice_NIR": 186.65,
+      "Fmax": 129.04,
+      "T_half": 7.71,
+      "slope_ratio": 0.97
+    },
+    {
+      "T1": 8.61,
+      "T2": 16.83,
+      "pendiente": 2.204,
+      "indice_NIR": 109.41,
+      "Fmax": 13.75,
+      "T_half": 4.51,
+      "slope_ratio": 0.944
+    },
+    {
+      "T1": 5.91,
+      "T2": 14.22,
+      "pendiente": 3.597,
+      "indice_NIR": 111.92,
+      "Fmax": 22.89,
+      "T_half": 4.61,
+      "slope_ratio": 0.942
+    },
+    {
+      "T1": 11.22,
+      "T2": 22.64,
+      "pendiente": 9.097,
+      "indice_NIR": 150.36,
+      "Fmax": 79.91,
+      "T_half": 6.21,
+      "slope_ratio": 0.935
+    },
+    {
+      "T1": 14.22,
+      "T2": 30.15,
+      "pendiente": 10.61,
+      "indice_NIR": 203.06,
+      "Fmax": 120.75,
+      "T_half": 8.51,
+      "slope_ratio": 1.019
+    },
+    {
+      "T1": 7.21,
+      "T2": 37.66,
+      "pendiente": 5.313,
+      "indice_NIR": 316.87,
+      "Fmax": 105.91,
+      "T_half": 15.33,
+      "slope_ratio": 1.017
+    },
+    {
+      "T1": 6.61,
+      "T2": 8.41,
+      "pendiente": 61.57,
+      "indice_NIR": 28.8,
+      "Fmax": 89.08,
+      "T_half": 1.3,
+      "slope_ratio": 1.25
+    },
+    {
+      "T1": 8.81,
+      "T2": 34.56,
+      "pendiente": 8.213,
+      "indice_NIR": 290.27,
+      "Fmax": 142.97,
+      "T_half": 13.32,
+      "slope_ratio": 1.023
+    },
+    {
+      "T1": 3.81,
+      "T2": 17.33,
+      "pendiente": 0.432,
+      "indice_NIR": 176.74,
+      "Fmax": 4.26,
+      "T_half": 7.21,
+      "slope_ratio": 1.013
+    },
+    {
+      "T1": 15.93,
+      "T2": 27.95,
+      "pendiente": 10.859,
+      "indice_NIR": 158.31,
+      "Fmax": 97.1,
+      "T_half": 6.61,
+      "slope_ratio": 0.991
+    },
+    {
+      "T1": 7.11,
+      "T2": 9.22,
+      "pendiente": 60.002,
+      "indice_NIR": 31.33,
+      "Fmax": 98.47,
+      "T_half": 1.3,
+      "slope_ratio": 1.196
+    },
+    {
+      "T1": 5.71,
+      "T2": 15.03,
+      "pendiente": 0.661,
+      "indice_NIR": 125.18,
+      "Fmax": 4.7,
+      "T_half": 5.21,
+      "slope_ratio": 1.024
+    },
+    {
+      "T1": 8.71,
+      "T2": 47.38,
+      "pendiente": 5.237,
+      "indice_NIR": 325.14,
+      "Fmax": 134.55,
+      "T_half": null,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 16.73,
+      "T2": 29.15,
+      "pendiente": 12.587,
+      "indice_NIR": 162.49,
+      "Fmax": 117.23,
+      "T_half": 6.71,
+      "slope_ratio": 0.982
+    },
+    {
+      "T1": 5.01,
+      "T2": 34.86,
+      "pendiente": 4.891,
+      "indice_NIR": 320.0,
+      "Fmax": 88.82,
+      "T_half": 15.03,
+      "slope_ratio": 1.084
+    },
+    {
+      "T1": 8.71,
+      "T2": 19.63,
+      "pendiente": 1.166,
+      "indice_NIR": 145.51,
+      "Fmax": 9.67,
+      "T_half": 5.91,
+      "slope_ratio": 1.003
+    },
+    {
+      "T1": 17.03,
+      "T2": 26.54,
+      "pendiente": 13.156,
+      "indice_NIR": 128.8,
+      "Fmax": 97.59,
+      "T_half": 5.41,
+      "slope_ratio": 0.996
+    },
+    {
+      "T1": 13.22,
+      "T2": 22.04,
+      "pendiente": 20.852,
+      "indice_NIR": 118.06,
+      "Fmax": 143.91,
+      "T_half": 4.91,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 17.23,
+      "T2": 29.45,
+      "pendiente": 11.964,
+      "indice_NIR": 159.73,
+      "Fmax": 107.93,
+      "T_half": 6.61,
+      "slope_ratio": 0.96
+    },
+    {
+      "T1": 5.81,
+      "T2": 35.76,
+      "pendiente": 7.174,
+      "indice_NIR": 318.9,
+      "Fmax": 149.45,
+      "T_half": 15.23,
+      "slope_ratio": 0.91
+    },
+    {
+      "T1": 18.33,
+      "T2": 30.45,
+      "pendiente": 10.091,
+      "indice_NIR": 159.58,
+      "Fmax": 90.71,
+      "T_half": 6.61,
+      "slope_ratio": 0.926
+    },
+    {
+      "T1": 7.51,
+      "T2": 8.71,
+      "pendiente": 75.825,
+      "indice_NIR": 20.53,
+      "Fmax": 72.54,
+      "T_half": 0.9,
+      "slope_ratio": 1.364
+    },
+    {
+      "T1": 6.81,
+      "T2": 8.41,
+      "pendiente": 99.063,
+      "indice_NIR": 25.21,
+      "Fmax": 122.06,
+      "T_half": 1.1,
+      "slope_ratio": 1.287
+    },
+    {
+      "T1": 7.61,
+      "T2": 36.06,
+      "pendiente": 7.466,
+      "indice_NIR": 307.41,
+      "Fmax": 144.61,
+      "T_half": 14.62,
+      "slope_ratio": 0.989
+    },
+    {
+      "T1": 6.51,
+      "T2": 14.12,
+      "pendiente": 1.704,
+      "indice_NIR": 103.2,
+      "Fmax": 9.93,
+      "T_half": 4.31,
+      "slope_ratio": 1.018
+    },
+    {
+      "T1": 4.01,
+      "T2": 33.66,
+      "pendiente": 5.519,
+      "indice_NIR": 321.13,
+      "Fmax": 112.45,
+      "T_half": 14.92,
+      "slope_ratio": 0.868
+    },
+    {
+      "T1": 2.9,
+      "T2": 4.51,
+      "pendiente": 80.027,
+      "indice_NIR": 25.49,
+      "Fmax": 99.33,
+      "T_half": 1.2,
+      "slope_ratio": 1.32
+    },
+    {
+      "T1": 19.53,
+      "T2": 30.15,
+      "pendiente": 16.011,
+      "indice_NIR": 142.14,
+      "Fmax": 130.7,
+      "T_half": 6.01,
+      "slope_ratio": 1.005
+    },
+    {
+      "T1": 6.71,
+      "T2": 18.43,
+      "pendiente": 0.702,
+      "indice_NIR": 155.69,
+      "Fmax": 6.31,
+      "T_half": 6.41,
+      "slope_ratio": 0.982
+    },
+    {
+      "T1": 8.81,
+      "T2": 38.36,
+      "pendiente": 4.779,
+      "indice_NIR": 308.26,
+      "Fmax": 92.61,
+      "T_half": 15.13,
+      "slope_ratio": 1.003
+    },
+    {
+      "T1": 18.93,
+      "T2": 26.94,
+      "pendiente": 17.736,
+      "indice_NIR": 108.23,
+      "Fmax": 111.01,
+      "T_half": 4.51,
+      "slope_ratio": 0.981
+    },
+    {
+      "T1": 8.21,
+      "T2": 21.04,
+      "pendiente": 1.037,
+      "indice_NIR": 168.28,
+      "Fmax": 9.95,
+      "T_half": 6.91,
+      "slope_ratio": 1.025
+    },
+    {
+      "T1": 6.61,
+      "T2": 37.66,
+      "pendiente": 7.034,
+      "indice_NIR": 320.42,
+      "Fmax": 146.64,
+      "T_half": 15.73,
+      "slope_ratio": 0.902
+    },
+    {
+      "T1": 4.61,
+      "T2": 17.33,
+      "pendiente": 0.628,
+      "indice_NIR": 167.79,
+      "Fmax": 5.82,
+      "T_half": 6.81,
+      "slope_ratio": 0.979
+    },
+    {
+      "T1": 6.31,
+      "T2": 7.71,
+      "pendiente": 118.653,
+      "indice_NIR": 22.71,
+      "Fmax": 129.79,
+      "T_half": 1.0,
+      "slope_ratio": 1.303
+    },
+    {
+      "T1": 5.01,
+      "T2": 17.03,
+      "pendiente": 0.577,
+      "indice_NIR": 159.99,
+      "Fmax": 5.39,
+      "T_half": 6.61,
+      "slope_ratio": 0.93
+    },
+    {
+      "T1": 5.11,
+      "T2": 13.62,
+      "pendiente": 0.557,
+      "indice_NIR": 114.45,
+      "Fmax": 3.63,
+      "T_half": 4.71,
+      "slope_ratio": 0.974
+    },
+    {
+      "T1": 6.71,
+      "T2": 43.27,
+      "pendiente": 5.564,
+      "indice_NIR": 335.26,
+      "Fmax": 126.41,
+      "T_half": null,
+      "slope_ratio": 0.854
+    },
+    {
+      "T1": 4.41,
+      "T2": 35.96,
+      "pendiente": 6.998,
+      "indice_NIR": 330.2,
+      "Fmax": 134.65,
+      "T_half": 15.93,
+      "slope_ratio": 1.024
+    },
+    {
+      "T1": 19.03,
+      "T2": 29.05,
+      "pendiente": 16.83,
+      "indice_NIR": 133.47,
+      "Fmax": 126.64,
+      "T_half": 5.51,
+      "slope_ratio": 0.978
+    },
+    {
+      "T1": 15.03,
+      "T2": 23.94,
+      "pendiente": 14.353,
+      "indice_NIR": 120.57,
+      "Fmax": 99.69,
+      "T_half": 4.91,
+      "slope_ratio": 0.982
+    },
+    {
+      "T1": 17.83,
+      "T2": 34.36,
+      "pendiente": 7.634,
+      "indice_NIR": 205.13,
+      "Fmax": 94.26,
+      "T_half": 8.81,
+      "slope_ratio": 0.979
+    },
+    {
+      "T1": 6.21,
+      "T2": 8.41,
+      "pendiente": 66.21,
+      "indice_NIR": 33.16,
+      "Fmax": 117.15,
+      "T_half": 1.5,
+      "slope_ratio": 1.173
+    },
+    {
+      "T1": 3.81,
+      "T2": 15.73,
+      "pendiente": 0.577,
+      "indice_NIR": 158.28,
+      "Fmax": 5.23,
+      "T_half": 6.51,
+      "slope_ratio": 0.934
+    },
+    {
+      "T1": 4.81,
+      "T2": 17.23,
+      "pendiente": 0.335,
+      "indice_NIR": 163.63,
+      "Fmax": 3.16,
+      "T_half": 6.61,
+      "slope_ratio": 0.913
+    },
+    {
+      "T1": 4.41,
+      "T2": 6.51,
+      "pendiente": 71.714,
+      "indice_NIR": 31.2,
+      "Fmax": 116.52,
+      "T_half": 1.4,
+      "slope_ratio": 1.201
+    },
+    {
+      "T1": 8.81,
+      "T2": 47.18,
+      "pendiente": 4.103,
+      "indice_NIR": 325.82,
+      "Fmax": 102.55,
+      "T_half": null,
+      "slope_ratio": 0.83
+    },
+    {
+      "T1": 5.71,
+      "T2": 40.87,
+      "pendiente": 5.833,
+      "indice_NIR": 335.99,
+      "Fmax": 124.34,
+      "T_half": 17.63,
+      "slope_ratio": 0.974
+    },
+    {
+      "T1": 3.51,
+      "T2": 5.61,
+      "pendiente": 81.436,
+      "indice_NIR": 32.04,
+      "Fmax": 138.11,
+      "T_half": 1.4,
+      "slope_ratio": 1.183
+    },
+    {
+      "T1": 8.01,
+      "T2": 49.08,
+      "pendiente": 5.431,
+      "indice_NIR": 327.83,
+      "Fmax": 132.39,
+      "T_half": null,
+      "slope_ratio": 1.043
+    },
+    {
+      "T1": 6.61,
+      "T2": 7.91,
+      "pendiente": 95.546,
+      "indice_NIR": 21.98,
+      "Fmax": 99.96,
+      "T_half": 1.0,
+      "slope_ratio": 1.319
+    },
+    {
+      "T1": 3.41,
+      "T2": 5.11,
+      "pendiente": 73.647,
+      "indice_NIR": 25.75,
+      "Fmax": 92.85,
+      "T_half": 1.1,
+      "slope_ratio": 1.301
+    },
+    {
+      "T1": 6.11,
+      "T2": 39.47,
+      "pendiente": 4.516,
+      "indice_NIR": 331.05,
+      "Fmax": 95.26,
+      "T_half": 16.93,
+      "slope_ratio": 0.942
+    },
+    {
+      "T1": 7.81,
+      "T2": 47.08,
+      "pendiente": 3.869,
+      "indice_NIR": 330.57,
+      "Fmax": 91.72,
+      "T_half": null,
+      "slope_ratio": 0.857
+    },
+    {
+      "T1": 4.41,
+      "T2": 45.98,
+      "pendiente": 5.38,
+      "indice_NIR": 348.98,
+      "Fmax": 139.16,
+      "T_half": null,
+      "slope_ratio": 0.989
+    },
+    {
+      "T1": 14.02,
+      "T2": 29.35,
+      "pendiente": 7.883,
+      "indice_NIR": 195.13,
+      "Fmax": 88.06,
+      "T_half": 8.01,
+      "slope_ratio": 0.982
+    },
+    {
+      "T1": 20.03,
+      "T2": 29.55,
+      "pendiente": 12.078,
+      "indice_NIR": 127.1,
+      "Fmax": 90.47,
+      "T_half": 5.21,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 5.01,
+      "T2": 42.97,
+      "pendiente": 5.895,
+      "indice_NIR": 344.83,
+      "Fmax": 145.4,
+      "T_half": null,
+      "slope_ratio": 0.89
+    },
+    {
+      "T1": 2.8,
+      "T2": 34.86,
+      "pendiente": 6.368,
+      "indice_NIR": 338.37,
+      "Fmax": 135.65,
+      "T_half": 16.43,
+      "slope_ratio": 1.006
+    },
+    {
+      "T1": 3.61,
+      "T2": 5.71,
+      "pendiente": 72.821,
+      "indice_NIR": 31.6,
+      "Fmax": 120.34,
+      "T_half": 1.4,
+      "slope_ratio": 1.205
+    },
+    {
+      "T1": 7.81,
+      "T2": 35.66,
+      "pendiente": 5.723,
+      "indice_NIR": 301.65,
+      "Fmax": 109.83,
+      "T_half": 14.02,
+      "slope_ratio": 0.879
+    },
+    {
+      "T1": 16.93,
+      "T2": 29.45,
+      "pendiente": 14.478,
+      "indice_NIR": 164.05,
+      "Fmax": 127.87,
+      "T_half": 6.81,
+      "slope_ratio": 0.957
+    },
+    {
+      "T1": 8.01,
+      "T2": 10.22,
+      "pendiente": 60.268,
+      "indice_NIR": 34.3,
+      "Fmax": 111.19,
+      "T_half": 1.6,
+      "slope_ratio": 1.163
+    },
+    {
+      "T1": 2.7,
+      "T2": 15.33,
+      "pendiente": 1.035,
+      "indice_NIR": 166.46,
+      "Fmax": 9.83,
+      "T_half": 6.81,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 5.31,
+      "T2": 39.67,
+      "pendiente": 3.883,
+      "indice_NIR": 337.3,
+      "Fmax": 83.6,
+      "T_half": 17.53,
+      "slope_ratio": 1.013
+    },
+    {
+      "T1": 6.71,
+      "T2": 38.56,
+      "pendiente": 6.237,
+      "indice_NIR": 323.77,
+      "Fmax": 135.04,
+      "T_half": 16.23,
+      "slope_ratio": 0.841
+    },
+    {
+      "T1": 7.81,
+      "T2": 18.23,
+      "pendiente": 0.678,
+      "indice_NIR": 140.0,
+      "Fmax": 5.24,
+      "T_half": 5.81,
+      "slope_ratio": 0.996
+    },
+    {
+      "T1": 6.51,
+      "T2": 8.41,
+      "pendiente": 72.012,
+      "indice_NIR": 29.37,
+      "Fmax": 108.21,
+      "T_half": 1.3,
+      "slope_ratio": 1.241
+    },
+    {
+      "T1": 14.12,
+      "T2": 30.35,
+      "pendiente": 7.212,
+      "indice_NIR": 205.4,
+      "Fmax": 86.85,
+      "T_half": 8.61,
+      "slope_ratio": 0.956
+    },
+    {
+      "T1": 2.9,
+      "T2": 4.41,
+      "pendiente": 68.281,
+      "indice_NIR": 22.99,
+      "Fmax": 77.08,
+      "T_half": 1.0,
+      "slope_ratio": 1.306
+    },
+    {
+      "T1": 2.0,
+      "T2": 12.72,
+      "pendiente": 1.028,
+      "indice_NIR": 140.6,
+      "Fmax": 8.44,
+      "T_half": 5.71,
+      "slope_ratio": 0.946
+    },
+    {
+      "T1": 13.22,
+      "T2": 27.25,
+      "pendiente": 13.18,
+      "indice_NIR": 181.93,
+      "Fmax": 137.71,
+      "T_half": 7.61,
+      "slope_ratio": 0.917
+    },
+    {
+      "T1": 3.01,
+      "T2": 47.28,
+      "pendiente": 5.853,
+      "indice_NIR": 356.89,
+      "Fmax": 137.59,
+      "T_half": null,
+      "slope_ratio": 1.115
+    },
+    {
+      "T1": 16.83,
+      "T2": 32.55,
+      "pendiente": 7.782,
+      "indice_NIR": 198.04,
+      "Fmax": 86.17,
+      "T_half": 8.31,
+      "slope_ratio": 1.022
+    },
+    {
+      "T1": 7.11,
+      "T2": 36.86,
+      "pendiente": 6.722,
+      "indice_NIR": 312.83,
+      "Fmax": 133.08,
+      "T_half": 15.23,
+      "slope_ratio": 1.012
+    },
+    {
+      "T1": 5.41,
+      "T2": 44.97,
+      "pendiente": 4.582,
+      "indice_NIR": 343.04,
+      "Fmax": 112.71,
+      "T_half": null,
+      "slope_ratio": 0.897
+    },
+    {
+      "T1": 3.71,
+      "T2": 35.86,
+      "pendiente": 6.459,
+      "indice_NIR": 336.19,
+      "Fmax": 132.8,
+      "T_half": 16.73,
+      "slope_ratio": 1.023
+    },
+    {
+      "T1": 2.9,
+      "T2": 34.06,
+      "pendiente": 4.287,
+      "indice_NIR": 331.66,
+      "Fmax": 92.64,
+      "T_half": 15.73,
+      "slope_ratio": 0.894
+    },
+    {
+      "T1": 18.83,
+      "T2": 30.35,
+      "pendiente": 16.982,
+      "indice_NIR": 151.46,
+      "Fmax": 149.26,
+      "T_half": 6.31,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 14.02,
+      "T2": 27.95,
+      "pendiente": 11.252,
+      "indice_NIR": 181.66,
+      "Fmax": 111.62,
+      "T_half": 7.61,
+      "slope_ratio": 1.072
+    },
+    {
+      "T1": 7.21,
+      "T2": 9.52,
+      "pendiente": 74.092,
+      "indice_NIR": 33.75,
+      "Fmax": 135.03,
+      "T_half": 1.5,
+      "slope_ratio": 1.153
+    },
+    {
+      "T1": 3.51,
+      "T2": 36.46,
+      "pendiente": 5.797,
+      "indice_NIR": 338.22,
+      "Fmax": 126.13,
+      "T_half": 16.33,
+      "slope_ratio": 0.95
+    },
+    {
+      "T1": 6.41,
+      "T2": 7.91,
+      "pendiente": 94.101,
+      "indice_NIR": 23.99,
+      "Fmax": 108.34,
+      "T_half": 1.1,
+      "slope_ratio": 1.322
+    },
+    {
+      "T1": 8.01,
+      "T2": 44.77,
+      "pendiente": 3.706,
+      "indice_NIR": 328.33,
+      "Fmax": 82.1,
+      "T_half": null,
+      "slope_ratio": 1.04
+    },
+    {
+      "T1": 6.31,
+      "T2": 17.23,
+      "pendiente": 0.587,
+      "indice_NIR": 145.69,
+      "Fmax": 4.83,
+      "T_half": 5.91,
+      "slope_ratio": 0.971
+    },
+    {
+      "T1": 16.03,
+      "T2": 31.15,
+      "pendiente": 12.566,
+      "indice_NIR": 192.05,
+      "Fmax": 137.86,
+      "T_half": 7.91,
+      "slope_ratio": 0.945
+    },
+    {
+      "T1": 4.91,
+      "T2": 37.16,
+      "pendiente": 5.8,
+      "indice_NIR": 332.61,
+      "Fmax": 116.57,
+      "T_half": 16.43,
+      "slope_ratio": 1.028
+    },
+    {
+      "T1": 4.21,
+      "T2": 15.83,
+      "pendiente": 0.858,
+      "indice_NIR": 152.95,
+      "Fmax": 7.72,
+      "T_half": 6.21,
+      "slope_ratio": 0.927
+    },
+    {
+      "T1": 1.9,
+      "T2": 3.01,
+      "pendiente": 135.002,
+      "indice_NIR": 19.59,
+      "Fmax": 119.29,
+      "T_half": 0.9,
+      "slope_ratio": 1.386
+    },
+    {
+      "T1": 17.53,
+      "T2": 26.84,
+      "pendiente": 20.028,
+      "indice_NIR": 124.51,
+      "Fmax": 142.15,
+      "T_half": 5.21,
+      "slope_ratio": 0.95
+    },
+    {
+      "T1": 16.33,
+      "T2": 33.26,
+      "pendiente": 6.967,
+      "indice_NIR": 208.85,
+      "Fmax": 84.26,
+      "T_half": 8.91,
+      "slope_ratio": 0.935
+    },
+    {
+      "T1": 3.61,
+      "T2": 42.47,
+      "pendiente": 4.298,
+      "indice_NIR": 352.91,
+      "Fmax": 93.7,
+      "T_half": null,
+      "slope_ratio": 0.936
+    },
+    {
+      "T1": 3.61,
+      "T2": 34.36,
+      "pendiente": 4.968,
+      "indice_NIR": 328.63,
+      "Fmax": 94.59,
+      "T_half": 15.63,
+      "slope_ratio": 1.067
+    },
+    {
+      "T1": 5.01,
+      "T2": 13.82,
+      "pendiente": 0.581,
+      "indice_NIR": 118.66,
+      "Fmax": 3.94,
+      "T_half": 4.91,
+      "slope_ratio": 0.963
+    },
+    {
+      "T1": 4.31,
+      "T2": 14.32,
+      "pendiente": 0.423,
+      "indice_NIR": 135.22,
+      "Fmax": 3.38,
+      "T_half": 5.61,
+      "slope_ratio": 0.947
+    },
+    {
+      "T1": 4.11,
+      "T2": 5.21,
+      "pendiente": 115.07,
+      "indice_NIR": 19.78,
+      "Fmax": 104.55,
+      "T_half": 0.9,
+      "slope_ratio": 1.388
+    },
+    {
+      "T1": 8.21,
+      "T2": 47.98,
+      "pendiente": 3.549,
+      "indice_NIR": 327.0,
+      "Fmax": 87.0,
+      "T_half": null,
+      "slope_ratio": 0.946
+    },
+    {
+      "T1": 13.72,
+      "T2": 22.54,
+      "pendiente": 18.231,
+      "indice_NIR": 117.63,
+      "Fmax": 123.02,
+      "T_half": 4.91,
+      "slope_ratio": 1.0
+    },
+    {
+      "T1": 7.81,
+      "T2": 45.38,
+      "pendiente": 5.673,
+      "indice_NIR": 328.15,
+      "Fmax": 137.7,
+      "T_half": null,
+      "slope_ratio": 0.907
+    },
+    {
+      "T1": 16.73,
+      "T2": 34.26,
+      "pendiente": 6.518,
+      "indice_NIR": 213.61,
+      "Fmax": 83.26,
+      "T_half": 9.12,
+      "slope_ratio": 0.925
+    },
+    {
+      "T1": 15.23,
+      "T2": 32.35,
+      "pendiente": 10.071,
+      "indice_NIR": 211.12,
+      "Fmax": 120.49,
+      "T_half": 8.91,
+      "slope_ratio": 1.002
+    },
+    {
+      "T1": 7.71,
+      "T2": 35.46,
+      "pendiente": 8.137,
+      "indice_NIR": 303.28,
+      "Fmax": 148.54,
+      "T_half": 14.22,
+      "slope_ratio": 0.897
+    },
+    {
+      "T1": 5.41,
+      "T2": 49.18,
+      "pendiente": 4.006,
+      "indice_NIR": 342.3,
+      "Fmax": 106.61,
+      "T_half": null,
+      "slope_ratio": 0.614
+    },
+    {
+      "T1": 4.91,
+      "T2": 42.47,
+      "pendiente": 3.633,
+      "indice_NIR": 345.18,
+      "Fmax": 88.97,
+      "T_half": null,
+      "slope_ratio": 0.915
+    },
+    {
+      "T1": 3.41,
+      "T2": 11.72,
+      "pendiente": 1.386,
+      "indice_NIR": 112.32,
+      "Fmax": 9.04,
+      "T_half": 4.71,
+      "slope_ratio": 0.97
+    },
+    {
+      "T1": 6.01,
+      "T2": 38.46,
+      "pendiente": 5.437,
+      "indice_NIR": 326.92,
+      "Fmax": 108.88,
+      "T_half": 16.53,
+      "slope_ratio": 1.095
+    },
+    {
+      "T1": 6.61,
+      "T2": 48.48,
+      "pendiente": 5.384,
+      "indice_NIR": 336.34,
+      "Fmax": 145.76,
+      "T_half": null,
+      "slope_ratio": 0.92
+    },
+    {
+      "T1": 4.71,
+      "T2": 38.06,
+      "pendiente": 5.213,
+      "indice_NIR": 335.41,
+      "Fmax": 111.75,
+      "T_half": 16.93,
+      "slope_ratio": 0.956
+    },
+    {
+      "T1": 4.81,
+      "T2": 6.41,
+      "pendiente": 86.456,
+      "indice_NIR": 26.2,
+      "Fmax": 109.88,
+      "T_half": 1.2,
+      "slope_ratio": 1.3
+    },
+    {
+      "T1": 4.31,
+      "T2": 14.22,
+      "pendiente": 0.714,
+      "indice_NIR": 133.89,
+      "Fmax": 5.64,
+      "T_half": 5.61,
+      "slope_ratio": 0.921
+    },
+    {
+      "T1": 3.31,
+      "T2": 15.83,
+      "pendiente": 0.605,
+      "indice_NIR": 166.29,
+      "Fmax": 5.71,
+      "T_half": 6.81,
+      "slope_ratio": 0.931
+    },
+    {
+      "T1": 14.52,
+      "T2": 27.75,
+      "pendiente": 13.609,
+      "indice_NIR": 171.43,
+      "Fmax": 132.95,
+      "T_half": 7.01,
+      "slope_ratio": 0.979
+    },
+    {
+      "T1": 7.81,
+      "T2": 21.84,
+      "pendiente": 0.672,
+      "indice_NIR": 183.97,
+      "Fmax": 7.17,
+      "T_half": 7.51,
+      "slope_ratio": 0.944
+    },
+    {
+      "T1": 6.71,
+      "T2": 33.56,
+      "pendiente": 8.254,
+      "indice_NIR": 299.41,
+      "Fmax": 146.4,
+      "T_half": 13.52,
+      "slope_ratio": 0.964
+    },
+    {
+      "T1": 7.51,
+      "T2": 9.12,
+      "pendiente": 61.958,
+      "indice_NIR": 24.22,
+      "Fmax": 73.31,
+      "T_half": 1.1,
+      "slope_ratio": 1.319
+    },
+    {
+      "T1": 2.4,
+      "T2": 44.07,
+      "pendiente": 4.748,
+      "indice_NIR": 360.83,
+      "Fmax": 119.55,
+      "T_half": null,
+      "slope_ratio": 0.99
+    },
+    {
+      "T1": 18.23,
+      "T2": 34.36,
+      "pendiente": 10.032,
+      "indice_NIR": 199.35,
+      "Fmax": 114.59,
+      "T_half": 8.41,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 16.33,
+      "T2": 23.94,
+      "pendiente": 21.964,
+      "indice_NIR": 103.79,
+      "Fmax": 134.64,
+      "T_half": 4.31,
+      "slope_ratio": 0.946
+    },
+    {
+      "T1": 7.21,
+      "T2": 8.51,
+      "pendiente": 107.398,
+      "indice_NIR": 20.99,
+      "Fmax": 104.4,
+      "T_half": 0.9,
+      "slope_ratio": 1.357
+    },
+    {
+      "T1": 3.91,
+      "T2": 35.26,
+      "pendiente": 6.758,
+      "indice_NIR": 330.99,
+      "Fmax": 134.11,
+      "T_half": 15.93,
+      "slope_ratio": 0.937
+    },
+    {
+      "T1": 16.63,
+      "T2": 33.96,
+      "pendiente": 12.415,
+      "indice_NIR": 210.84,
+      "Fmax": 147.67,
+      "T_half": 9.12,
+      "slope_ratio": 0.983
+    },
+    {
+      "T1": 8.01,
+      "T2": 35.76,
+      "pendiente": 6.732,
+      "indice_NIR": 302.51,
+      "Fmax": 121.37,
+      "T_half": 14.32,
+      "slope_ratio": 0.971
+    },
+    {
+      "T1": 4.11,
+      "T2": 5.11,
+      "pendiente": 127.561,
+      "indice_NIR": 19.0,
+      "Fmax": 109.37,
+      "T_half": 0.8,
+      "slope_ratio": 1.306
+    },
+    {
+      "T1": 4.91,
+      "T2": 6.41,
+      "pendiente": 117.753,
+      "indice_NIR": 23.75,
+      "Fmax": 135.9,
+      "T_half": 1.1,
+      "slope_ratio": 1.323
+    },
+    {
+      "T1": 5.01,
+      "T2": 15.13,
+      "pendiente": 0.763,
+      "indice_NIR": 135.93,
+      "Fmax": 5.91,
+      "T_half": 5.61,
+      "slope_ratio": 0.953
+    },
+    {
+      "T1": 2.9,
+      "T2": 16.03,
+      "pendiente": 0.907,
+      "indice_NIR": 172.25,
+      "Fmax": 8.87,
+      "T_half": 6.91,
+      "slope_ratio": 0.899
+    },
+    {
+      "T1": 15.13,
+      "T2": 31.55,
+      "pendiente": 7.125,
+      "indice_NIR": 204.29,
+      "Fmax": 81.72,
+      "T_half": 8.51,
+      "slope_ratio": 0.899
+    },
+    {
+      "T1": 5.71,
+      "T2": 40.47,
+      "pendiente": 6.016,
+      "indice_NIR": 335.65,
+      "Fmax": 128.5,
+      "T_half": 17.43,
+      "slope_ratio": 0.903
+    },
+    {
+      "T1": 6.71,
+      "T2": 16.93,
+      "pendiente": 0.938,
+      "indice_NIR": 136.39,
+      "Fmax": 7.33,
+      "T_half": 5.61,
+      "slope_ratio": 0.935
+    },
+    {
+      "T1": 13.32,
+      "T2": 25.54,
+      "pendiente": 12.577,
+      "indice_NIR": 160.73,
+      "Fmax": 116.17,
+      "T_half": 6.61,
+      "slope_ratio": 0.973
+    },
+    {
+      "T1": 2.7,
+      "T2": 3.81,
+      "pendiente": 97.896,
+      "indice_NIR": 19.56,
+      "Fmax": 86.28,
+      "T_half": 0.9,
+      "slope_ratio": 1.357
+    },
+    {
+      "T1": 13.82,
+      "T2": 30.65,
+      "pendiente": 8.977,
+      "indice_NIR": 212.64,
+      "Fmax": 108.4,
+      "T_half": 9.12,
+      "slope_ratio": 0.963
+    },
+    {
+      "T1": 19.83,
+      "T2": 28.25,
+      "pendiente": 19.246,
+      "indice_NIR": 112.89,
+      "Fmax": 125.71,
+      "T_half": 4.71,
+      "slope_ratio": 0.987
+    },
+    {
+      "T1": 7.21,
+      "T2": 8.81,
+      "pendiente": 81.536,
+      "indice_NIR": 25.6,
+      "Fmax": 101.42,
+      "T_half": 1.2,
+      "slope_ratio": 1.314
+    },
+    {
+      "T1": 13.32,
+      "T2": 26.24,
+      "pendiente": 15.591,
+      "indice_NIR": 168.87,
+      "Fmax": 149.49,
+      "T_half": 6.81,
+      "slope_ratio": 0.961
+    },
+    {
+      "T1": 8.91,
+      "T2": 33.06,
+      "pendiente": 7.647,
+      "indice_NIR": 281.11,
+      "Fmax": 129.41,
+      "T_half": 12.72,
+      "slope_ratio": 0.949
+    },
+    {
+      "T1": 8.41,
+      "T2": 16.33,
+      "pendiente": 1.587,
+      "indice_NIR": 106.72,
+      "Fmax": 9.55,
+      "T_half": 4.41,
+      "slope_ratio": 0.978
+    },
+    {
+      "T1": 7.91,
+      "T2": 34.46,
+      "pendiente": 5.051,
+      "indice_NIR": 296.48,
+      "Fmax": 84.15,
+      "T_half": 13.62,
+      "slope_ratio": 1.039
+    },
+    {
+      "T1": 14.12,
+      "T2": 27.05,
+      "pendiente": 14.769,
+      "indice_NIR": 168.15,
+      "Fmax": 144.44,
+      "T_half": 6.91,
+      "slope_ratio": 0.968
+    },
+    {
+      "T1": 5.41,
+      "T2": 6.61,
+      "pendiente": 99.06,
+      "indice_NIR": 21.03,
+      "Fmax": 97.61,
+      "T_half": 1.0,
+      "slope_ratio": 1.361
+    },
+    {
+      "T1": 7.81,
+      "T2": 8.91,
+      "pendiente": 86.584,
+      "indice_NIR": 20.41,
+      "Fmax": 80.19,
+      "T_half": 0.9,
+      "slope_ratio": 1.389
+    },
+    {
+      "T1": 15.13,
+      "T2": 32.05,
+      "pendiente": 6.923,
+      "indice_NIR": 213.24,
+      "Fmax": 86.5,
+      "T_half": 9.22,
+      "slope_ratio": 0.923
+    },
+    {
+      "T1": 7.01,
+      "T2": 20.43,
+      "pendiente": 0.991,
+      "indice_NIR": 175.67,
+      "Fmax": 9.81,
+      "T_half": 7.11,
+      "slope_ratio": 0.955
+    },
+    {
+      "T1": 7.11,
+      "T2": 9.22,
+      "pendiente": 48.41,
+      "indice_NIR": 33.03,
+      "Fmax": 84.63,
+      "T_half": 1.5,
+      "slope_ratio": 1.174
+    },
+    {
+      "T1": 5.31,
+      "T2": 6.71,
+      "pendiente": 114.535,
+      "indice_NIR": 23.58,
+      "Fmax": 129.59,
+      "T_half": 1.1,
+      "slope_ratio": 1.317
+    },
+    {
+      "T1": 7.81,
+      "T2": 9.62,
+      "pendiente": 78.155,
+      "indice_NIR": 27.13,
+      "Fmax": 106.28,
+      "T_half": 1.2,
+      "slope_ratio": 1.271
+    },
+    {
+      "T1": 4.51,
+      "T2": 38.66,
+      "pendiente": 5.335,
+      "indice_NIR": 337.33,
+      "Fmax": 107.59,
+      "T_half": 17.13,
+      "slope_ratio": 1.081
+    },
+    {
+      "T1": 2.7,
+      "T2": 33.96,
+      "pendiente": 6.715,
+      "indice_NIR": 333.69,
+      "Fmax": 134.51,
+      "T_half": 15.83,
+      "slope_ratio": 1.005
+    },
+    {
+      "T1": 8.51,
+      "T2": 20.43,
+      "pendiente": 0.364,
+      "indice_NIR": 156.75,
+      "Fmax": 3.25,
+      "T_half": 6.41,
+      "slope_ratio": 0.986
+    },
+    {
+      "T1": 3.21,
+      "T2": 36.26,
+      "pendiente": 7.1,
+      "indice_NIR": 339.59,
+      "Fmax": 148.23,
+      "T_half": 16.53,
+      "slope_ratio": 0.992
+    },
+    {
+      "T1": 5.11,
+      "T2": 7.31,
+      "pendiente": 82.147,
+      "indice_NIR": 32.68,
+      "Fmax": 141.46,
+      "T_half": 1.4,
+      "slope_ratio": 1.212
+    },
+    {
+      "T1": 14.72,
+      "T2": 22.84,
+      "pendiente": 14.582,
+      "indice_NIR": 109.2,
+      "Fmax": 90.6,
+      "T_half": 4.51,
+      "slope_ratio": 1.001
+    },
+    {
+      "T1": 3.21,
+      "T2": 4.71,
+      "pendiente": 112.609,
+      "indice_NIR": 24.02,
+      "Fmax": 131.45,
+      "T_half": 1.1,
+      "slope_ratio": 1.317
+    },
+    {
+      "T1": 16.93,
+      "T2": 30.55,
+      "pendiente": 8.952,
+      "indice_NIR": 177.31,
+      "Fmax": 94.22,
+      "T_half": 7.41,
+      "slope_ratio": 0.889
+    },
+    {
+      "T1": 6.31,
+      "T2": 19.93,
+      "pendiente": 0.94,
+      "indice_NIR": 178.66,
+      "Fmax": 9.63,
+      "T_half": 7.31,
+      "slope_ratio": 0.991
+    },
+    {
+      "T1": 3.91,
+      "T2": 4.91,
+      "pendiente": 89.964,
+      "indice_NIR": 19.04,
+      "Fmax": 76.37,
+      "T_half": 0.8,
+      "slope_ratio": 1.303
+    },
+    {
+      "T1": 8.71,
+      "T2": 38.96,
+      "pendiente": 6.885,
+      "indice_NIR": 311.22,
+      "Fmax": 134.06,
+      "T_half": 15.43,
+      "slope_ratio": 0.979
+    },
+    {
+      "T1": 5.91,
+      "T2": 35.46,
+      "pendiente": 5.143,
+      "indice_NIR": 317.87,
+      "Fmax": 102.68,
+      "T_half": 15.33,
+      "slope_ratio": 0.986
+    },
+    {
+      "T1": 17.73,
+      "T2": 29.65,
+      "pendiente": 10.622,
+      "indice_NIR": 155.59,
+      "Fmax": 96.19,
+      "T_half": 6.41,
+      "slope_ratio": 0.9
+    },
+    {
+      "T1": 7.11,
+      "T2": 15.83,
+      "pendiente": 1.39,
+      "indice_NIR": 117.97,
+      "Fmax": 9.54,
+      "T_half": 4.91,
+      "slope_ratio": 0.961
+    },
+    {
+      "T1": 2.6,
+      "T2": 4.01,
+      "pendiente": 97.596,
+      "indice_NIR": 22.46,
+      "Fmax": 104.75,
+      "T_half": 1.0,
+      "slope_ratio": 1.326
+    },
+    {
+      "T1": 16.63,
+      "T2": 28.55,
+      "pendiente": 17.055,
+      "indice_NIR": 156.57,
+      "Fmax": 149.44,
+      "T_half": 6.41,
+      "slope_ratio": 1.003
+    },
+    {
+      "T1": 16.43,
+      "T2": 28.15,
+      "pendiente": 9.262,
+      "indice_NIR": 154.85,
+      "Fmax": 84.57,
+      "T_half": 6.41,
+      "slope_ratio": 0.919
+    },
+    {
+      "T1": 6.31,
+      "T2": 36.16,
+      "pendiente": 6.085,
+      "indice_NIR": 318.74,
+      "Fmax": 124.76,
+      "T_half": 15.63,
+      "slope_ratio": 0.939
+    },
+    {
+      "T1": 8.91,
+      "T2": 19.83,
+      "pendiente": 1.129,
+      "indice_NIR": 144.23,
+      "Fmax": 9.27,
+      "T_half": 5.81,
+      "slope_ratio": 0.914
+    },
+    {
+      "T1": 16.33,
+      "T2": 24.54,
+      "pendiente": 21.941,
+      "indice_NIR": 110.89,
+      "Fmax": 137.01,
+      "T_half": 4.61,
+      "slope_ratio": 0.953
+    },
+    {
+      "T1": 7.51,
+      "T2": 18.03,
+      "pendiente": 0.961,
+      "indice_NIR": 141.02,
+      "Fmax": 7.46,
+      "T_half": 5.81,
+      "slope_ratio": 0.979
+    },
+    {
+      "T1": 8.01,
+      "T2": 20.03,
+      "pendiente": 0.616,
+      "indice_NIR": 158.6,
+      "Fmax": 5.43,
+      "T_half": 6.51,
+      "slope_ratio": 1.057
+    },
+    {
+      "T1": 6.81,
+      "T2": 48.88,
+      "pendiente": 4.331,
+      "indice_NIR": 335.5,
+      "Fmax": 105.97,
+      "T_half": null,
+      "slope_ratio": 0.965
+    },
+    {
+      "T1": 4.91,
+      "T2": 18.23,
+      "pendiente": 0.676,
+      "indice_NIR": 174.09,
+      "Fmax": 6.54,
+      "T_half": 7.11,
+      "slope_ratio": 0.958
+    },
+    {
+      "T1": 16.23,
+      "T2": 25.94,
+      "pendiente": 18.183,
+      "indice_NIR": 129.86,
+      "Fmax": 132.04,
+      "T_half": 5.41,
+      "slope_ratio": 1.005
+    },
+    {
+      "T1": 3.01,
+      "T2": 11.92,
+      "pendiente": 1.035,
+      "indice_NIR": 120.48,
+      "Fmax": 7.38,
+      "T_half": 5.01,
+      "slope_ratio": 0.956
+    },
+    {
+      "T1": 19.33,
+      "T2": 29.55,
+      "pendiente": 11.517,
+      "indice_NIR": 136.99,
+      "Fmax": 87.5,
+      "T_half": 5.71,
+      "slope_ratio": 1.008
+    },
+    {
+      "T1": 8.71,
+      "T2": 17.33,
+      "pendiente": 0.651,
+      "indice_NIR": 116.87,
+      "Fmax": 4.38,
+      "T_half": 4.91,
+      "slope_ratio": 0.964
+    },
+    {
+      "T1": 5.51,
+      "T2": 47.48,
+      "pendiente": 5.173,
+      "indice_NIR": 341.86,
+      "Fmax": 133.23,
+      "T_half": null,
+      "slope_ratio": 1.041
+    },
+    {
+      "T1": 7.01,
+      "T2": 35.56,
+      "pendiente": 5.3,
+      "indice_NIR": 308.96,
+      "Fmax": 104.99,
+      "T_half": 14.42,
+      "slope_ratio": 0.929
+    },
+    {
+      "T1": 2.8,
+      "T2": 3.91,
+      "pendiente": 95.095,
+      "indice_NIR": 20.21,
+      "Fmax": 86.47,
+      "T_half": 0.9,
+      "slope_ratio": 1.377
+    },
+    {
+      "T1": 3.01,
+      "T2": 41.77,
+      "pendiente": 4.984,
+      "indice_NIR": 355.83,
+      "Fmax": 129.33,
+      "T_half": null,
+      "slope_ratio": 0.895
+    },
+    {
+      "T1": 16.43,
+      "T2": 31.65,
+      "pendiente": 11.475,
+      "indice_NIR": 194.07,
+      "Fmax": 132.31,
+      "T_half": 8.21,
+      "slope_ratio": 0.941
+    },
+    {
+      "T1": 18.73,
+      "T2": 30.75,
+      "pendiente": 15.159,
+      "indice_NIR": 157.09,
+      "Fmax": 137.4,
+      "T_half": 6.51,
+      "slope_ratio": 0.967
+    },
+    {
+      "T1": 4.61,
+      "T2": 35.46,
+      "pendiente": 5.697,
+      "indice_NIR": 327.27,
+      "Fmax": 112.77,
+      "T_half": 15.83,
+      "slope_ratio": 1.01
+    },
+    {
+      "T1": 15.73,
+      "T2": 25.84,
+      "pendiente": 16.7,
+      "indice_NIR": 133.19,
+      "Fmax": 132.51,
+      "T_half": 5.41,
+      "slope_ratio": 0.903
+    },
+    {
+      "T1": 14.92,
+      "T2": 23.84,
+      "pendiente": 15.683,
+      "indice_NIR": 119.49,
+      "Fmax": 110.36,
+      "T_half": 4.91,
+      "slope_ratio": 0.951
+    },
+    {
+      "T1": 4.21,
+      "T2": 38.76,
+      "pendiente": 4.881,
+      "indice_NIR": 342.07,
+      "Fmax": 96.49,
+      "T_half": 17.53,
+      "slope_ratio": 1.135
+    },
+    {
+      "T1": 8.51,
+      "T2": 19.53,
+      "pendiente": 0.899,
+      "indice_NIR": 146.69,
+      "Fmax": 7.5,
+      "T_half": 6.11,
+      "slope_ratio": 0.978
+    },
+    {
+      "T1": 7.21,
+      "T2": 9.52,
+      "pendiente": 63.601,
+      "indice_NIR": 34.18,
+      "Fmax": 117.94,
+      "T_half": 1.5,
+      "slope_ratio": 1.16
+    },
+    {
+      "T1": 8.51,
+      "T2": 45.78,
+      "pendiente": 4.721,
+      "indice_NIR": 326.05,
+      "Fmax": 112.5,
+      "T_half": null,
+      "slope_ratio": 1.015
+    },
+    {
+      "T1": 2.3,
+      "T2": 3.21,
+      "pendiente": 103.721,
+      "indice_NIR": 18.66,
+      "Fmax": 86.79,
+      "T_half": 0.8,
+      "slope_ratio": 1.218
+    },
+    {
+      "T1": 4.71,
+      "T2": 42.27,
+      "pendiente": 5.097,
+      "indice_NIR": 343.93,
+      "Fmax": 118.85,
+      "T_half": null,
+      "slope_ratio": 1.031
+    },
+    {
+      "T1": 7.91,
+      "T2": 34.46,
+      "pendiente": 5.141,
+      "indice_NIR": 294.76,
+      "Fmax": 96.09,
+      "T_half": 13.42,
+      "slope_ratio": 0.924
+    },
+    {
+      "T1": 19.03,
+      "T2": 36.46,
+      "pendiente": 10.988,
+      "indice_NIR": 210.2,
+      "Fmax": 141.31,
+      "T_half": 9.22,
+      "slope_ratio": 0.901
+    },
+    {
+      "T1": 7.31,
+      "T2": 8.51,
+      "pendiente": 99.122,
+      "indice_NIR": 20.4,
+      "Fmax": 92.78,
+      "T_half": 0.9,
+      "slope_ratio": 1.385
+    },
+    {
+      "T1": 6.31,
+      "T2": 20.33,
+      "pendiente": 0.541,
+      "indice_NIR": 184.54,
+      "Fmax": 5.42,
+      "T_half": 7.61,
+      "slope_ratio": 0.994
+    },
+    {
+      "T1": 6.01,
+      "T2": 37.46,
+      "pendiente": 4.562,
+      "indice_NIR": 325.03,
+      "Fmax": 92.14,
+      "T_half": 16.13,
+      "slope_ratio": 0.938
+    },
+    {
+      "T1": 13.52,
+      "T2": 30.55,
+      "pendiente": 8.575,
+      "indice_NIR": 213.54,
+      "Fmax": 108.04,
+      "T_half": 9.02,
+      "slope_ratio": 0.935
+    },
+    {
+      "T1": 18.93,
+      "T2": 33.26,
+      "pendiente": 8.931,
+      "indice_NIR": 182.25,
+      "Fmax": 93.3,
+      "T_half": 7.61,
+      "slope_ratio": 0.956
+    },
+    {
+      "T1": 7.71,
+      "T2": 17.13,
+      "pendiente": 1.28,
+      "indice_NIR": 126.5,
+      "Fmax": 9.38,
+      "T_half": 5.31,
+      "slope_ratio": 0.951
+    },
+    {
+      "T1": 14.02,
+      "T2": 28.35,
+      "pendiente": 13.48,
+      "indice_NIR": 184.27,
+      "Fmax": 137.21,
+      "T_half": 7.61,
+      "slope_ratio": 0.984
+    },
+    {
+      "T1": 4.01,
+      "T2": 48.98,
+      "pendiente": 3.751,
+      "indice_NIR": 349.91,
+      "Fmax": 98.71,
+      "T_half": null,
+      "slope_ratio": 0.958
+    },
+    {
+      "T1": 16.13,
+      "T2": 27.95,
+      "pendiente": 10.746,
+      "indice_NIR": 155.99,
+      "Fmax": 97.79,
+      "T_half": 6.41,
+      "slope_ratio": 0.929
+    },
+    {
+      "T1": 6.61,
+      "T2": 7.81,
+      "pendiente": 124.773,
+      "indice_NIR": 20.93,
+      "Fmax": 121.37,
+      "T_half": 1.0,
+      "slope_ratio": 1.352
+    },
+    {
+      "T1": 3.11,
+      "T2": 4.01,
+      "pendiente": 109.074,
+      "indice_NIR": 18.43,
+      "Fmax": 91.18,
+      "T_half": 0.8,
+      "slope_ratio": 1.219
+    },
+    {
+      "T1": 2.1,
+      "T2": 36.16,
+      "pendiente": 5.293,
+      "indice_NIR": 345.22,
+      "Fmax": 116.36,
+      "T_half": 17.03,
+      "slope_ratio": 1.043
+    },
+    {
+      "T1": 6.71,
+      "T2": 7.71,
+      "pendiente": 99.713,
+      "indice_NIR": 18.81,
+      "Fmax": 85.71,
+      "T_half": 0.8,
+      "slope_ratio": 1.292
+    }
+  ],
+  "n_samples": 500,
+  "timestamp": "2026-04-10T09:37:45.294365"
+}

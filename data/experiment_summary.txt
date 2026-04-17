@@ -1,0 +1,45 @@
+======================================================================
+BIOCONNECT VALIDATION EXPERIMENT SUMMARY
+======================================================================
+
+Experiment: BioConnect_v2_SyntheticValidation
+Date: 2026-04-10T09:37:45.463901
+
+--- VALIDATION METRICS ---
+AUC: 0.8091
+Sensitivity: 0.7442
+Specificity: 0.9298
+
+--- ROBUSTNESS TESTS (5 Core Tests) ---
+1. Savitzky-Goyal Sensitivity
+   Status: FAIL
+   Reason: Máxima desviación AUC: 0.1909 (≥0.05 [FAIL])
+2. Poisson Noise Robustness
+   Status: PASS
+   Reason: Cambios medios: T1=5.8%, T2=0.3%, pend=12.3%, NIR=3.4% (dentro de umbrales [OK])
+3. Threshold Stability (±10%)
+   Status: PASS
+   Reason: Cambios de clasificación: 0/8 (≤2 [OK])
+4. K-Fold Cross-Validation (5-fold)
+   Status: PASS
+   Reason: AUC: 0.8299 ± 0.1020 (≥0.75 [OK])
+5. Class Balance
+   Status: PASS
+   Reason: Leak: 43.0% (ratio 0.75) (0.3-3.0 [OK])
+
+--- FALSIFICATION TESTS (3 Core Tests) ---
+1. Label Permutation
+   Status: PASS
+   Reason: AUC_real=0.8091, AUC_perm=0.5027±0.0543, diff=0.3063 (>0.10 [OK])
+2. Reversed Threshold
+   Status: PASS
+   Reason: AUC_real=0.8091, AUC_reversed=0.1909, diff=0.6181 (AUC_real >> AUC_reversed [OK])
+3. Null Hypothesis Test
+   Status: PASS
+   Reason: AUC_real=0.8091 (>0.55: [OK]), AUC_null=0.5182, diff=0.2909 (>0.10: [OK])
+
+--- OVERALL SUMMARY ---
+Robustness Tests Pass: NO
+Falsification Tests Pass: YES
+
+======================================================================

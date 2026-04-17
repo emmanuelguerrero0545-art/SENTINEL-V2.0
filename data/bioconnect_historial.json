@@ -1,0 +1,38 @@
+[
+  {
+    "fecha": "17/04/2026 01:31",
+    "caso": "icg_adecuada",
+    "resultado": "ADECUADA",
+    "score": 75.2,
+    "modulo": "MAX Analysis"
+  },
+  {
+    "fecha": "15/04/2026 20:48",
+    "caso": "icg_adecuada",
+    "resultado": "ADECUADA",
+    "score": 75.2,
+    "modulo": "Analisis MAX"
+  },
+  {
+    "fecha": "15/04/2026 20:44",
+    "caso": "icg_adecuada",
+    "resultado": "ADECUADA",
+    "score": 75.2,
+    "modulo": "Analisis MAX"
+  },
+  {
+    "fecha": "15/04/2026 20:37",
+    "caso": "icg_adecuada",
+    "resultado": "ADECUADA",
+    "score": 75.2,
+    "modulo": "Analisis MAX"
+  },
+  {
+    "fecha": "15/04/2026 19:49",
+    "caso": "icg_adecuada",
+    "resultado": "ADECUADA",
+    "score": 75.2,
+    "modulo": "Analizar Video"
+  },
+  {
+    "fecha": "10/04
