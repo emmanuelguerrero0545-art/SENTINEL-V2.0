@@ -1,0 +1,39 @@
+<svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-h">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- LOGO ICON (izquierda) -->
+  <!-- Círculo externo rojo -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#EF4444" stroke-width="3.5" filter="url(#glow-h)"/>
+  
+  <!-- Iris (círculo medio negro) -->
+  <circle cx="100" cy="100" r="52" fill="#0F0F0F" stroke="#FF9900" stroke-width="2"/>
+  
+  <!-- Pupila (círculo pequeño naranja) -->
+  <circle cx="100" cy="100" r="32" fill="#EF4444" filter="url(#glow-h)"/>
+  
+  <!-- Centro luminoso -->
+  <circle cx="100" cy="100" r="18" fill="#FF9900"/>
+  
+  <!-- Brillo blanco -->
+  <circle cx="92" cy="92" r="6" fill="#FFFFFF" opacity="0.9"/>
+  
+  <!-- Línea de escaneo horizontal -->
+  <line x1="35" y1="100" x2="165" y2="100" stroke="#FF9900" stroke-width="1.2" opacity="0.5" stroke-dasharray="5,5"/>
+  
+  <!-- TEXTO "SENTINEL" (derecha) -->
+  <text x="220" y="130" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#0F0F0F" letter-spacing="2">SENTINEL</text>
+  
+  <!-- LÍNEA SEPARADORA -->
+  <line x1="180" y1="60" x2="180" y2="140" stroke="#EF4444" stroke-width="2" opacity="0.4"/>
+  
+  <!-- TAGLINE (debajo del nombre) -->
+  <text x="220" y="160" font-family="Arial, sans-serif" font-size="14" fill="#666666" letter-spacing="1.5">INTRAOPERATIVE PERFUSION INTELLIGENCE</text>
+</svg>
